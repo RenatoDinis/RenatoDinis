@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-My name is Renato Dinis and today is Saturday, 21 September, 15:03 CEST.
-=======
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Glad you stopped by!</h1>
 
 <p>Welcome to my page! </br> I'm Renato, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/8463/8463351.png" width="13"/> <b>Coimbra, Portugal</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/8463/8463273.png" width="13"/> <b>Luxembourg</b>. </p>
@@ -35,7 +32,7 @@ My name is Renato Dinis and today is Saturday, 21 September, 15:03 CEST.
 ------------
 <p align="center">
     This <i>README</i> file is generated <b>every 6 hours</b>! <br /> 
-    Last refresh: Saturday, 21 September at 19:38 CEST
+    Last refresh: Saturday, 21 September, 19:41 CEST
 </p>
 
 <p align="center">
@@ -43,4 +40,3 @@ My name is Renato Dinis and today is Saturday, 21 September, 15:03 CEST.
     <img alt="Stars" src="https://img.shields.io/github/stars/RenatoDinis/RenatoDinis?style=flat-square&labelColor=343b41"/>
     <img alt="Forks" src="https://img.shields.io/github/forks/RenatoDinis/RenatoDinis?style=flat-square&labelColor=343b41"/>
 </p>
->>>>>>> 9e91786 (feat: update template)
