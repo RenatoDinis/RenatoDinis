@@ -19,6 +19,9 @@
 
 <h3>Where to find me</h3>
 <p>
+    <a href="https://www.atuals.com/" target="_blank">
+        <img alt="Atuals" src="https://img.shields.io/badge/Atuals-1f2937?style=for-the-badge&logo=atuals&logoColor=white" />
+    </a>
     <a href="https://github.com/RenatoDinis" target="_blank">
         <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
     </a>
@@ -33,7 +36,7 @@
 ------------
 <p align="center">
     This <i>README</i> file is generated <b>every 6 hours</b>! <br /> 
-    Last refresh: Thursday, 24 October, 14:31 CEST
+    Last refresh: Thursday, 24 October, 17:24 CEST
 </p>
 
 <p align="center">
