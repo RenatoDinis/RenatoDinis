@@ -72,24 +72,24 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/fLRTKFA_ACc" target="_blank"><img src="https://i.ytimg.com/vi/fLRTKFA_ACc/hqdefault.jpg" alt="How I Convert Any YouTube Video to a Short" width="100%" /></a>
+      <a href="https://youtu.be/fLRTKFA_ACc" target="_blank"><img src="https://i.ytimg.com/vi/fLRTKFA_ACc/hqdefault.jpg" alt="Make YouTube Shorts From a Single Link" width="100%" /></a>
       <br/>
-      <sub><b>How I Convert Any YouTube Video to a Short</b></sub>
+      <sub><b>Make YouTube Shorts From a Single Link</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/pXJL42Aqx10" target="_blank"><img src="https://i.ytimg.com/vi/pXJL42Aqx10/hqdefault.jpg" alt="One Node Replaces Your Perplexity Setup" width="100%" /></a>
+      <a href="https://youtu.be/MrwSQxL0UPA" target="_blank"><img src="https://i.ytimg.com/vi/MrwSQxL0UPA/hqdefault.jpg" alt="I Edit 10x Faster With AI" width="100%" /></a>
       <br/>
-      <sub><b>One Node Replaces Your Perplexity Setup</b></sub>
+      <sub><b>I Edit 10x Faster With AI</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/yThWnMSu6TU" target="_blank"><img src="https://i.ytimg.com/vi/yThWnMSu6TU/hqdefault.jpg" alt="I Tested Kling vs Veo for UGC Ads" width="100%" /></a>
+      <a href="https://youtu.be/hWDLSpM0M1E" target="_blank"><img src="https://i.ytimg.com/vi/hWDLSpM0M1E/hqdefault.jpg" alt="Free Claude Code? Here&#39;s How" width="100%" /></a>
       <br/>
-      <sub><b>I Tested Kling vs Veo for UGC Ads</b></sub>
+      <sub><b>Free Claude Code? Here&#39;s How</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/VDnzk05wz94" target="_blank"><img src="https://i.ytimg.com/vi/VDnzk05wz94/hqdefault.jpg" alt="Auto-Post to X, but You Approve First" width="100%" /></a>
+      <a href="https://youtu.be/KmlgMHIPgkc" target="_blank"><img src="https://i.ytimg.com/vi/KmlgMHIPgkc/hqdefault.jpg" alt="How I Got 10 AI Agents On Discord" width="100%" /></a>
       <br/>
-      <sub><b>Auto-Post to X, but You Approve First</b></sub>
+      <sub><b>How I Got 10 AI Agents On Discord</b></sub>
     </td>
   </tr>
 </table>
@@ -97,7 +97,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Thursday 4 June at 22:48 CEST
+  Last refresh: Thursday 4 June at 22:56 CEST
 </p>
 
 <p align="center">

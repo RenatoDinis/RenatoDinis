@@ -1,40 +1,72 @@
 // index.js
 const Mustache = require("mustache");
 const fs = require("fs");
-const { XMLParser } = require("fast-xml-parser");
 
 const MUSTACHE_MAIN_DIR = "./main.mustache";
-const CHANNEL_ID = "UCodwwgKWupGldvuu4qmBidA";
-const FEED_URL = `https://www.youtube.com/feeds/videos.xml?channel_id=${CHANNEL_ID}`;
+const VIDEOS_URL = "https://www.youtube.com/@RenatoDinisAI/videos";
 const MAX_VIDEOS = 4;
 
+// A consent cookie + browser headers so the EU consent wall never hides the
+// page. US CI runners don't get the wall, so this is just insurance.
+const FETCH_HEADERS = {
+  "User-Agent":
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+  "Accept-Language": "en-US,en;q=0.9",
+  Cookie: "SOCS=CAISEwgDEgk0ODE3Nzk3MjQaAmVuIAEaBgiA_LyaBg",
+};
+
 /**
- * Fetch the channel's RSS feed and return the latest videos.
- * On any failure we return [] so the scheduled commit never breaks
- * — the template falls back to a plain "Watch on YouTube" link.
+ * Collect every lockupViewModel video (the "Videos" tab natively excludes
+ * Shorts) in page order, newest first.
+ */
+function extractVideos(ytInitialData) {
+  const out = [];
+  const seen = new Set();
+  (function walk(node) {
+    if (!node || typeof node !== "object") return;
+    const lv = node.lockupViewModel;
+    if (
+      lv &&
+      lv.contentType === "LOCKUP_CONTENT_TYPE_VIDEO" &&
+      /^[\w-]{11}$/.test(lv.contentId || "") &&
+      !seen.has(lv.contentId)
+    ) {
+      seen.add(lv.contentId);
+      let title = "";
+      try {
+        title = lv.metadata.lockupMetadataViewModel.title.content;
+      } catch (e) {
+        /* title stays empty */
+      }
+      out.push({
+        id: lv.contentId,
+        title,
+        url: `https://youtu.be/${lv.contentId}`,
+        thumb: `https://i.ytimg.com/vi/${lv.contentId}/hqdefault.jpg`,
+      });
+    }
+    for (const k in node) walk(node[k]);
+  })(ytInitialData);
+  return out;
+}
+
+/**
+ * Fetch the channel's "Videos" tab and return the latest long-form videos.
+ * On any failure we return [] so the scheduled commit never breaks — the
+ * template falls back to a plain "Watch on YouTube" link.
  */
 async function fetchLatestVideos() {
   try {
-    const res = await fetch(FEED_URL);
+    const res = await fetch(VIDEOS_URL, { headers: FETCH_HEADERS });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const xml = await res.text();
+    const html = await res.text();
 
-    const parser = new XMLParser({ ignoreAttributes: false });
-    const feed = parser.parse(xml);
-    const entries = feed?.feed?.entry ?? [];
-    const list = Array.isArray(entries) ? entries : [entries];
+    const m = html.match(/ytInitialData\s*=\s*(\{.*?\});<\/script>/s);
+    if (!m) throw new Error("ytInitialData not found");
 
-    return list.slice(0, MAX_VIDEOS).map((entry) => {
-      const id = entry["yt:videoId"];
-      return {
-        id,
-        title: entry.title,
-        url: `https://youtu.be/${id}`,
-        thumb: `https://i.ytimg.com/vi/${id}/hqdefault.jpg`,
-      };
-    });
+    return extractVideos(JSON.parse(m[1])).slice(0, MAX_VIDEOS);
   } catch (err) {
-    console.error("Could not fetch YouTube feed:", err.message);
+    console.error("Could not fetch YouTube videos:", err.message);
     return [];
   }
 }
