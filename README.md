@@ -82,9 +82,9 @@
       <sub><b>No Keyframes? The Future Of Edit</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/hWDLSpM0M1E" target="_blank"><img src="https://i.ytimg.com/vi/hWDLSpM0M1E/hqdefault.jpg" alt="Claude Code Is Now Free For Me" width="100%" /></a>
+      <a href="https://youtu.be/hWDLSpM0M1E" target="_blank"><img src="https://i.ytimg.com/vi/hWDLSpM0M1E/hqdefault.jpg" alt="How I Pay $0 For Claude Code" width="100%" /></a>
       <br/>
-      <sub><b>Claude Code Is Now Free For Me</b></sub>
+      <sub><b>How I Pay $0 For Claude Code</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/KmlgMHIPgkc" target="_blank"><img src="https://i.ytimg.com/vi/KmlgMHIPgkc/hqdefault.jpg" alt="I Built A Discord AI Army For Free" width="100%" /></a>
@@ -97,7 +97,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Saturday 6 June at 04:56 CEST
+  Last refresh: Saturday 6 June at 10:30 CEST
 </p>
 
 <p align="center">
