@@ -72,19 +72,19 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/fLRTKFA_ACc" target="_blank"><img src="https://i.ytimg.com/vi/fLRTKFA_ACc/hqdefault.jpg" alt="Make YouTube Shorts From a Single Link" width="100%" /></a>
+      <a href="https://youtu.be/fLRTKFA_ACc" target="_blank"><img src="https://i.ytimg.com/vi/fLRTKFA_ACc/hqdefault.jpg" alt="How I Convert Any YouTube Video to a Short" width="100%" /></a>
       <br/>
-      <sub><b>Make YouTube Shorts From a Single Link</b></sub>
+      <sub><b>How I Convert Any YouTube Video to a Short</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/MrwSQxL0UPA" target="_blank"><img src="https://i.ytimg.com/vi/MrwSQxL0UPA/hqdefault.jpg" alt="I Edit 10x Faster With AI" width="100%" /></a>
+      <a href="https://youtu.be/MrwSQxL0UPA" target="_blank"><img src="https://i.ytimg.com/vi/MrwSQxL0UPA/hqdefault.jpg" alt="I Built AI Animations In Seconds" width="100%" /></a>
       <br/>
-      <sub><b>I Edit 10x Faster With AI</b></sub>
+      <sub><b>I Built AI Animations In Seconds</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/hWDLSpM0M1E" target="_blank"><img src="https://i.ytimg.com/vi/hWDLSpM0M1E/hqdefault.jpg" alt="Claude Code Is Now Free For Me" width="100%" /></a>
+      <a href="https://youtu.be/hWDLSpM0M1E" target="_blank"><img src="https://i.ytimg.com/vi/hWDLSpM0M1E/hqdefault.jpg" alt="Free Claude Code? Here&#39;s How" width="100%" /></a>
       <br/>
-      <sub><b>Claude Code Is Now Free For Me</b></sub>
+      <sub><b>Free Claude Code? Here&#39;s How</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/KmlgMHIPgkc" target="_blank"><img src="https://i.ytimg.com/vi/KmlgMHIPgkc/hqdefault.jpg" alt="I Built A Discord AI Army For Free" width="100%" /></a>
@@ -97,7 +97,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Sunday 7 June at 21:19 CEST
+  Last refresh: Monday 8 June at 05:51 CEST
 </p>
 
 <p align="center">
