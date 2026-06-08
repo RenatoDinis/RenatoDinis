@@ -72,24 +72,24 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/fLRTKFA_ACc" target="_blank"><img src="https://i.ytimg.com/vi/fLRTKFA_ACc/hqdefault.jpg" alt="How I Convert Any YouTube Video to a Short" width="100%" /></a>
+      <a href="https://youtu.be/fLRTKFA_ACc" target="_blank"><img src="https://i.ytimg.com/vi/fLRTKFA_ACc/hqdefault.jpg" alt="How I Made Shorts Without Video Editing" width="100%" /></a>
       <br/>
-      <sub><b>How I Convert Any YouTube Video to a Short</b></sub>
+      <sub><b>How I Made Shorts Without Video Editing</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/MrwSQxL0UPA" target="_blank"><img src="https://i.ytimg.com/vi/MrwSQxL0UPA/hqdefault.jpg" alt="I Edit 10x Faster With AI" width="100%" /></a>
+      <a href="https://youtu.be/MrwSQxL0UPA" target="_blank"><img src="https://i.ytimg.com/vi/MrwSQxL0UPA/hqdefault.jpg" alt="I Built AI Animations In Seconds" width="100%" /></a>
       <br/>
-      <sub><b>I Edit 10x Faster With AI</b></sub>
+      <sub><b>I Built AI Animations In Seconds</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/hWDLSpM0M1E" target="_blank"><img src="https://i.ytimg.com/vi/hWDLSpM0M1E/hqdefault.jpg" alt="Claude Code Is Now Free For Me" width="100%" /></a>
+      <a href="https://youtu.be/hWDLSpM0M1E" target="_blank"><img src="https://i.ytimg.com/vi/hWDLSpM0M1E/hqdefault.jpg" alt="Free Claude Code? Here&#39;s How" width="100%" /></a>
       <br/>
-      <sub><b>Claude Code Is Now Free For Me</b></sub>
+      <sub><b>Free Claude Code? Here&#39;s How</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/KmlgMHIPgkc" target="_blank"><img src="https://i.ytimg.com/vi/KmlgMHIPgkc/hqdefault.jpg" alt="I Built A Discord AI Army For Free" width="100%" /></a>
+      <a href="https://youtu.be/KmlgMHIPgkc" target="_blank"><img src="https://i.ytimg.com/vi/KmlgMHIPgkc/hqdefault.jpg" alt="I Made A Discord AI Army With OpenClaw" width="100%" /></a>
       <br/>
-      <sub><b>I Built A Discord AI Army For Free</b></sub>
+      <sub><b>I Made A Discord AI Army With OpenClaw</b></sub>
     </td>
   </tr>
 </table>
@@ -97,7 +97,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Monday 8 June at 17:47 CEST
+  Last refresh: Monday 8 June at 22:11 CEST
 </p>
 
 <p align="center">
