@@ -72,14 +72,14 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/fLRTKFA_ACc" target="_blank"><img src="https://i.ytimg.com/vi/fLRTKFA_ACc/hqdefault.jpg" alt="How I Convert Any YouTube Video to a Short" width="100%" /></a>
+      <a href="https://youtu.be/fLRTKFA_ACc" target="_blank"><img src="https://i.ytimg.com/vi/fLRTKFA_ACc/hqdefault.jpg" alt="Make YouTube Shorts From a Single Link" width="100%" /></a>
       <br/>
-      <sub><b>How I Convert Any YouTube Video to a Short</b></sub>
+      <sub><b>Make YouTube Shorts From a Single Link</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/MrwSQxL0UPA" target="_blank"><img src="https://i.ytimg.com/vi/MrwSQxL0UPA/hqdefault.jpg" alt="I Built AI Animations In Seconds" width="100%" /></a>
+      <a href="https://youtu.be/MrwSQxL0UPA" target="_blank"><img src="https://i.ytimg.com/vi/MrwSQxL0UPA/hqdefault.jpg" alt="No Keyframes? The Future Of Edit" width="100%" /></a>
       <br/>
-      <sub><b>I Built AI Animations In Seconds</b></sub>
+      <sub><b>No Keyframes? The Future Of Edit</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/hWDLSpM0M1E" target="_blank"><img src="https://i.ytimg.com/vi/hWDLSpM0M1E/hqdefault.jpg" alt="Free Claude Code? Here&#39;s How" width="100%" /></a>
@@ -87,9 +87,9 @@
       <sub><b>Free Claude Code? Here&#39;s How</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/KmlgMHIPgkc" target="_blank"><img src="https://i.ytimg.com/vi/KmlgMHIPgkc/hqdefault.jpg" alt="I Built A Discord AI Army For Free" width="100%" /></a>
+      <a href="https://youtu.be/KmlgMHIPgkc" target="_blank"><img src="https://i.ytimg.com/vi/KmlgMHIPgkc/hqdefault.jpg" alt="How I Got 10 AI Agents On Discord" width="100%" /></a>
       <br/>
-      <sub><b>I Built A Discord AI Army For Free</b></sub>
+      <sub><b>How I Got 10 AI Agents On Discord</b></sub>
     </td>
   </tr>
 </table>
@@ -97,7 +97,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Tuesday 9 June at 11:39 CEST
+  Last refresh: Tuesday 9 June at 16:46 CEST
 </p>
 
 <p align="center">
