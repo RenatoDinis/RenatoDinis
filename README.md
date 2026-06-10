@@ -72,6 +72,11 @@
 <table>
   <tr>
     <td align="center" width="25%">
+      <a href="https://youtu.be/Qm4h0R1kMDc" target="_blank"><img src="https://i.ytimg.com/vi/Qm4h0R1kMDc/hqdefault.jpg" alt="Graphify Cut My Claude Code Tokens 72×" width="100%" /></a>
+      <br/>
+      <sub><b>Graphify Cut My Claude Code Tokens 72×</b></sub>
+    </td>
+    <td align="center" width="25%">
       <a href="https://youtu.be/fLRTKFA_ACc" target="_blank"><img src="https://i.ytimg.com/vi/fLRTKFA_ACc/hqdefault.jpg" alt="Make YouTube Shorts From a Single Link" width="100%" /></a>
       <br/>
       <sub><b>Make YouTube Shorts From a Single Link</b></sub>
@@ -86,18 +91,13 @@
       <br/>
       <sub><b>Free Claude Code? Here&#39;s How</b></sub>
     </td>
-    <td align="center" width="25%">
-      <a href="https://youtu.be/KmlgMHIPgkc" target="_blank"><img src="https://i.ytimg.com/vi/KmlgMHIPgkc/hqdefault.jpg" alt="How I Got 10 AI Agents On Discord" width="100%" /></a>
-      <br/>
-      <sub><b>How I Got 10 AI Agents On Discord</b></sub>
-    </td>
   </tr>
 </table>
 
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Wednesday 10 June at 11:55 CEST
+  Last refresh: Wednesday 10 June at 17:29 CEST
 </p>
 
 <p align="center">
