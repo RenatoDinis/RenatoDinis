@@ -72,14 +72,14 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/Qm4h0R1kMDc" target="_blank"><img src="https://i.ytimg.com/vi/Qm4h0R1kMDc/hqdefault.jpg" alt="Graphify Cut My Claude Code Tokens 72×" width="100%" /></a>
+      <a href="https://youtu.be/Qm4h0R1kMDc" target="_blank"><img src="https://i.ytimg.com/vi/Qm4h0R1kMDc/hqdefault.jpg" alt="Graphify Gives Claude Code A Secret Map" width="100%" /></a>
       <br/>
-      <sub><b>Graphify Cut My Claude Code Tokens 72×</b></sub>
+      <sub><b>Graphify Gives Claude Code A Secret Map</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/fLRTKFA_ACc" target="_blank"><img src="https://i.ytimg.com/vi/fLRTKFA_ACc/hqdefault.jpg" alt="Make YouTube Shorts From a Single Link" width="100%" /></a>
+      <a href="https://youtu.be/fLRTKFA_ACc" target="_blank"><img src="https://i.ytimg.com/vi/fLRTKFA_ACc/hqdefault.jpg" alt="How I Convert Any YouTube Video to a Short" width="100%" /></a>
       <br/>
-      <sub><b>Make YouTube Shorts From a Single Link</b></sub>
+      <sub><b>How I Convert Any YouTube Video to a Short</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/MrwSQxL0UPA" target="_blank"><img src="https://i.ytimg.com/vi/MrwSQxL0UPA/hqdefault.jpg" alt="No Keyframes? The Future Of Edit" width="100%" /></a>
@@ -97,7 +97,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Wednesday 10 June at 17:29 CEST
+  Last refresh: Wednesday 10 June at 22:27 CEST
 </p>
 
 <p align="center">
