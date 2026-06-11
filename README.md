@@ -77,14 +77,14 @@
       <sub><b>Fix This Before Claude Eats Your Tokens #claudecode</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/Qm4h0R1kMDc" target="_blank"><img src="https://i.ytimg.com/vi/Qm4h0R1kMDc/hqdefault.jpg" alt="How I Set Up Graphify In Claude Code" width="100%" /></a>
+      <a href="https://youtu.be/Qm4h0R1kMDc" target="_blank"><img src="https://i.ytimg.com/vi/Qm4h0R1kMDc/hqdefault.jpg" alt="Graphify Cut My Claude Code Tokens 72×" width="100%" /></a>
       <br/>
-      <sub><b>How I Set Up Graphify In Claude Code</b></sub>
+      <sub><b>Graphify Cut My Claude Code Tokens 72×</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/fLRTKFA_ACc" target="_blank"><img src="https://i.ytimg.com/vi/fLRTKFA_ACc/hqdefault.jpg" alt="How I Made Shorts Without Video Editing" width="100%" /></a>
+      <a href="https://youtu.be/fLRTKFA_ACc" target="_blank"><img src="https://i.ytimg.com/vi/fLRTKFA_ACc/hqdefault.jpg" alt="Make YouTube Shorts From a Single Link" width="100%" /></a>
       <br/>
-      <sub><b>How I Made Shorts Without Video Editing</b></sub>
+      <sub><b>Make YouTube Shorts From a Single Link</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/MrwSQxL0UPA" target="_blank"><img src="https://i.ytimg.com/vi/MrwSQxL0UPA/hqdefault.jpg" alt="No Keyframes? The Future Of Edit" width="100%" /></a>
@@ -97,7 +97,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Thursday 11 June at 17:56 CEST
+  Last refresh: Thursday 11 June at 22:18 CEST
 </p>
 
 <p align="center">
