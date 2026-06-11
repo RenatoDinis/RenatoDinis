@@ -72,24 +72,24 @@
 <table>
   <tr>
     <td align="center" width="25%">
+      <a href="https://youtu.be/yhLtGs1mLh4" target="_blank"><img src="https://i.ytimg.com/vi/yhLtGs1mLh4/hqdefault.jpg" alt="How I Cut Claude Tokens By 80% #claudecode" width="100%" /></a>
+      <br/>
+      <sub><b>How I Cut Claude Tokens By 80% #claudecode</b></sub>
+    </td>
+    <td align="center" width="25%">
       <a href="https://youtu.be/Qm4h0R1kMDc" target="_blank"><img src="https://i.ytimg.com/vi/Qm4h0R1kMDc/hqdefault.jpg" alt="Graphify Gives Claude Code A Secret Map" width="100%" /></a>
       <br/>
       <sub><b>Graphify Gives Claude Code A Secret Map</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/fLRTKFA_ACc" target="_blank"><img src="https://i.ytimg.com/vi/fLRTKFA_ACc/hqdefault.jpg" alt="How I Convert Any YouTube Video to a Short" width="100%" /></a>
+      <a href="https://youtu.be/fLRTKFA_ACc" target="_blank"><img src="https://i.ytimg.com/vi/fLRTKFA_ACc/hqdefault.jpg" alt="Make YouTube Shorts From a Single Link" width="100%" /></a>
       <br/>
-      <sub><b>How I Convert Any YouTube Video to a Short</b></sub>
+      <sub><b>Make YouTube Shorts From a Single Link</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/MrwSQxL0UPA" target="_blank"><img src="https://i.ytimg.com/vi/MrwSQxL0UPA/hqdefault.jpg" alt="No Keyframes? The Future Of Edit" width="100%" /></a>
       <br/>
       <sub><b>No Keyframes? The Future Of Edit</b></sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://youtu.be/hWDLSpM0M1E" target="_blank"><img src="https://i.ytimg.com/vi/hWDLSpM0M1E/hqdefault.jpg" alt="Free Claude Code? Here&#39;s How" width="100%" /></a>
-      <br/>
-      <sub><b>Free Claude Code? Here&#39;s How</b></sub>
     </td>
   </tr>
 </table>
@@ -97,7 +97,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Wednesday 10 June at 22:27 CEST
+  Last refresh: Thursday 11 June at 05:48 CEST
 </p>
 
 <p align="center">
