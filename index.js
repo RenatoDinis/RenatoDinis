@@ -5,6 +5,8 @@ const fs = require("fs");
 const MUSTACHE_MAIN_DIR = "./main.mustache";
 const VIDEOS_URL = "https://www.youtube.com/@RenatoDinisAI/videos";
 const MAX_VIDEOS = 4;
+const SITEMAP_URL = "https://atuals.com/sitemap.xml";
+const MAX_POSTS = 3;
 
 // A consent cookie + browser headers so the EU consent wall never hides the
 // page. US CI runners don't get the wall, so this is just insurance.
@@ -72,6 +74,58 @@ async function fetchLatestVideos() {
 }
 
 /**
+ * Title for one blog post: the page's og:title (the prerendered pages carry
+ * one per post), falling back to a title-cased slug if the fetch fails.
+ */
+async function fetchPostTitle(url) {
+  try {
+    const res = await fetch(url, { headers: FETCH_HEADERS });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const html = await res.text();
+    const m = html.match(/<meta[^>]+property="og:title"[^>]+content="([^"]+)"/);
+    if (m) return m[1].trim();
+  } catch (e) {
+    /* fall through to slug */
+  }
+  const slug = url.split("/").pop();
+  return slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
+}
+
+/**
+ * Read /blog/<slug> entries out of the Atuals sitemap, newest lastmod first.
+ * On any failure we return [] so the scheduled commit never breaks — the
+ * template falls back to a plain "Read the Atuals blog" link.
+ */
+async function fetchLatestPosts() {
+  try {
+    const res = await fetch(SITEMAP_URL, { headers: FETCH_HEADERS });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const xml = await res.text();
+
+    const posts = [
+      ...xml.matchAll(/<loc>([^<]+)<\/loc>\s*<lastmod>([^<]+)<\/lastmod>/g),
+    ]
+      .filter(([, loc]) => /atuals\.com\/blog\/[^/]+$/.test(loc))
+      .map(([, url, lastmod]) => ({ url, lastmod }))
+      .sort((a, b) => b.lastmod.localeCompare(a.lastmod))
+      .slice(0, MAX_POSTS);
+
+    for (const post of posts) {
+      post.title = await fetchPostTitle(post.url);
+      post.published = new Date(post.lastmod).toLocaleDateString("en-GB", {
+        day: "numeric",
+        month: "short",
+        year: "numeric",
+      });
+    }
+    return posts;
+  } catch (err) {
+    console.error("Could not fetch Atuals blog posts:", err.message);
+    return [];
+  }
+}
+
+/**
  * A - We open 'main.mustache'
  * B - We ask Mustache to render our file with the data
  * C - We create a README.md file with the generated output
@@ -86,9 +140,10 @@ async function generateReadMe() {
       hour: "numeric",
       minute: "numeric",
       timeZoneName: "short",
-      timeZone: "Europe/Luxembourg",
+      timeZone: "Europe/Lisbon",
     }),
     videos: await fetchLatestVideos(),
+    posts: await fetchLatestPosts(),
   };
 
   const template = fs.readFileSync(MUSTACHE_MAIN_DIR).toString();

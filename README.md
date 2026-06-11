@@ -8,8 +8,8 @@
   I build <b>AI agents &amp; automation</b> at <a href="https://atuals.com/"><b>Atuals</b></a>,
   and make videos about it on <a href="https://www.youtube.com/@RenatoDinisAI"><b>YouTube</b></a>.
   <br/>
-  <img src="https://cdn-icons-png.flaticon.com/512/8463/8463351.png" width="13"/> from <b>Coimbra, Portugal</b> &nbsp;·&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/8463/8463273.png" width="13"/> based in <b>Luxembourg</b>
+  <img src="https://cdn-icons-png.flaticon.com/512/8463/8463351.png" width="13"/> based in <b>Coimbra, Portugal</b> &nbsp;·&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/8463/8463273.png" width="13"/> born in <b>Luxembourg</b>
 </p>
 
 <p align="center">
@@ -72,9 +72,9 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/yhLtGs1mLh4" target="_blank"><img src="https://i.ytimg.com/vi/yhLtGs1mLh4/hqdefault.jpg" alt="Fix This Before Claude Eats Your Tokens #claudecode" width="100%" /></a>
+      <a href="https://youtu.be/yhLtGs1mLh4" target="_blank"><img src="https://i.ytimg.com/vi/yhLtGs1mLh4/hqdefault.jpg" alt="How I Cut Claude Tokens By 80% #claudecode" width="100%" /></a>
       <br/>
-      <sub><b>Fix This Before Claude Eats Your Tokens #claudecode</b></sub>
+      <sub><b>How I Cut Claude Tokens By 80% #claudecode</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/Qm4h0R1kMDc" target="_blank"><img src="https://i.ytimg.com/vi/Qm4h0R1kMDc/hqdefault.jpg" alt="Graphify Cut My Claude Code Tokens 72×" width="100%" /></a>
@@ -82,9 +82,9 @@
       <sub><b>Graphify Cut My Claude Code Tokens 72×</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/fLRTKFA_ACc" target="_blank"><img src="https://i.ytimg.com/vi/fLRTKFA_ACc/hqdefault.jpg" alt="Make YouTube Shorts From a Single Link" width="100%" /></a>
+      <a href="https://youtu.be/fLRTKFA_ACc" target="_blank"><img src="https://i.ytimg.com/vi/fLRTKFA_ACc/hqdefault.jpg" alt="How I Made Shorts Without Video Editing" width="100%" /></a>
       <br/>
-      <sub><b>Make YouTube Shorts From a Single Link</b></sub>
+      <sub><b>How I Made Shorts Without Video Editing</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/MrwSQxL0UPA" target="_blank"><img src="https://i.ytimg.com/vi/MrwSQxL0UPA/hqdefault.jpg" alt="No Keyframes? The Future Of Edit" width="100%" /></a>
@@ -94,13 +94,28 @@
   </tr>
 </table>
 
-------------
+<h3 align="center">✍️ Latest from the Atuals blog</h3>
 <p align="center">
-  This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Thursday 11 June at 22:18 CEST
+  <a href="https://atuals.com/blog/how-i-set-up-graphify-in-claude-code" target="_blank"><b>How I Set Up Graphify In Claude Code</b></a> · <sub>10 Jun 2026</sub><br/>
+  <a href="https://atuals.com/blog/how-i-convert-any-youtube-video-to-a-short" target="_blank"><b>How I Convert Any YouTube Video to a Short</b></a> · <sub>4 Jun 2026</sub><br/>
+  <a href="https://atuals.com/blog/no-keyframes-the-future-of-edit" target="_blank"><b>No Keyframes: The Future of Video Editing</b></a> · <sub>26 May 2026</sub><br/>
+  <sub><a href="https://atuals.com/blog" target="_blank">all posts →</a></sub>
 </p>
 
 <p align="center">
-  <img src="https://github.com/RenatoDinis/RenatoDinis/workflows/README%20build/badge.svg" />
+  💼 Want something like this built for your business?
+  <a href="mailto:renato.dinis@atuals.com?subject=Project%20inquiry%20%E2%80%94%20Atuals"><b>Work with me</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://atuals.com/"><b>atuals.com</b></a>
+</p>
+
+------------
+<p align="center">
+  This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
+  Last refresh: Thursday 11 June at 23:56 WEST
+</p>
+
+<p align="center">
+  <img src="https://github.com/RenatoDinis/RenatoDinis/actions/workflows/main.yaml/badge.svg" />
   <img alt="Stars" src="https://img.shields.io/github/stars/RenatoDinis/RenatoDinis?style=flat-square&labelColor=343b41"/>
 </p>
