@@ -72,9 +72,9 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/yhLtGs1mLh4" target="_blank"><img src="https://i.ytimg.com/vi/yhLtGs1mLh4/hqdefault.jpg" alt="How I Cut Claude Tokens By 80% #claudecode" width="100%" /></a>
+      <a href="https://youtu.be/yhLtGs1mLh4" target="_blank"><img src="https://i.ytimg.com/vi/yhLtGs1mLh4/hqdefault.jpg" alt="Fix This Before Claude Eats Your Tokens #claudecode" width="100%" /></a>
       <br/>
-      <sub><b>How I Cut Claude Tokens By 80% #claudecode</b></sub>
+      <sub><b>Fix This Before Claude Eats Your Tokens #claudecode</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/Qm4h0R1kMDc" target="_blank"><img src="https://i.ytimg.com/vi/Qm4h0R1kMDc/hqdefault.jpg" alt="Graphify Cut My Claude Code Tokens 72×" width="100%" /></a>
@@ -113,7 +113,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Friday 12 June at 18:40 WEST
+  Last refresh: Friday 12 June at 18:41 WEST
 </p>
 
 <p align="center">
