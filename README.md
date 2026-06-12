@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Renato Dinis — AI Agents · Automation · YouTube" width="100%" />
+  <img src="assets/banner.png" alt="Renato Dinis — I teach you to build with AI, step by step" width="100%" />
 </p>
 
 <h1 align="center">Hey, I'm Renato 👋</h1>
@@ -113,7 +113,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Friday 12 June at 17:57 WEST
+  Last refresh: Friday 12 June at 18:40 WEST
 </p>
 
 <p align="center">
