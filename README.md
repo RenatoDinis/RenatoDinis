@@ -5,8 +5,8 @@
 <h1 align="center">Hey, I'm Renato 👋</h1>
 
 <p align="center">
-  I build <b>AI agents &amp; automation</b> at <a href="https://atuals.com/"><b>Atuals</b></a>,
-  and make videos about it on <a href="https://www.youtube.com/@RenatoDinisAI"><b>YouTube</b></a>.
+  I teach people to <b>build with AI</b> on <a href="https://www.youtube.com/@RenatoDinisAI"><b>YouTube</b></a>,
+  and build it for clients at <a href="https://atuals.com/"><b>Atuals</b></a>.
   <br/>
   <img src="https://cdn-icons-png.flaticon.com/512/8463/8463351.png" width="13"/> based in <b>Coimbra, Portugal</b> &nbsp;·&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/8463/8463273.png" width="13"/> born in <b>Luxembourg</b>
@@ -33,7 +33,7 @@
   </a>
 </p>
 
-<h3 align="center">🛠️ What I build with</h3>
+<h3 align="center">🛠️ What I teach and build with</h3>
 <p align="center">
   <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
   <img alt="Anthropic API" src="https://img.shields.io/badge/Anthropic_API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
@@ -52,18 +52,18 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://atuals.com/" target="_blank">
-        <img alt="Atuals" src="https://img.shields.io/badge/Atuals-07090d?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCA2MDAgNjAwIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA2MDAgNjAwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+Cgkuc3Qwe2ZpbGw6I2ZmZmZmZjt9Cgkuc3Qxe2ZpbGw6bm9uZTtzdHJva2U6I2ZmZmZmZjtzdHJva2Utd2lkdGg6MjguODQzNztzdHJva2UtbWl0ZXJsaW1pdDoxMDt9Cjwvc3R5bGU+CjxnIGlkPSJYTUxJRF8xMl8iPgoJPGcgaWQ9IlhNTElEXzFfIj4KCQk8ZyBpZD0iWE1MSURfMzdfIj4KCQkJPHBhdGggaWQ9IlhNTElEXzM4XyIgY2xhc3M9InN0MCIgZD0iTTQ0My42LDM4My42djMxaC0xMDB2LTMxaDI4LjJsLTE5LjUtNTUuMmgtMTA0bC0xOC43LDU1LjJoMjguNnYzMWgtOTcuN3YtMzFoMjcuNGw4Ni41LTI0MwoJCQkJaDUxLjZsOTAuMSwyNDNINDQzLjZ6IE0zNDAuNCwyOTQuM2wtNDAuOS0xMTcuMWwtMzkuNywxMTcuMUgzNDAuNHoiLz4KCQk8L2c+Cgk8L2c+Cgk8ZyBpZD0iWE1MSURfMTBfIj4KCQk8Y2lyY2xlIGlkPSJYTUxJRF84XyIgY2xhc3M9InN0MSIgY3g9IjMwMCIgY3k9IjMwMCIgcj0iMjM5Ii8+Cgk8L2c+CjwvZz4KPC9zdmc+&logoColor=white" />
-      </a>
-      <br/>
-      <b>Atuals</b> — my AI agency. We design and ship custom AI agents and automation that put businesses on autopilot.
-    </td>
-    <td align="center" width="50%">
       <a href="https://www.youtube.com/@RenatoDinisAI" target="_blank">
         <img alt="YouTube" src="https://img.shields.io/badge/@RenatoDinisAI-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
       </a>
       <br/>
-      <b>YouTube</b> — hands-on tutorials on Claude Code, AI agents, and automation workflows you can actually build.
+      <b>YouTube</b> — step-by-step builds: Claude Code, AI agents, n8n. Learn to build, free.
+    </td>
+    <td align="center" width="50%">
+      <a href="https://atuals.com/" target="_blank">
+        <img alt="Atuals" src="https://img.shields.io/badge/Atuals-07090d?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCA2MDAgNjAwIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA2MDAgNjAwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+Cgkuc3Qwe2ZpbGw6I2ZmZmZmZjt9Cgkuc3Qxe2ZpbGw6bm9uZTtzdHJva2U6I2ZmZmZmZjtzdHJva2Utd2lkdGg6MjguODQzNztzdHJva2UtbWl0ZXJsaW1pdDoxMDt9Cjwvc3R5bGU+CjxnIGlkPSJYTUxJRF8xMl8iPgoJPGcgaWQ9IlhNTElEXzFfIj4KCQk8ZyBpZD0iWE1MSURfMzdfIj4KCQkJPHBhdGggaWQ9IlhNTElEXzM4XyIgY2xhc3M9InN0MCIgZD0iTTQ0My42LDM4My42djMxaC0xMDB2LTMxaDI4LjJsLTE5LjUtNTUuMmgtMTA0bC0xOC43LDU1LjJoMjguNnYzMWgtOTcuN3YtMzFoMjcuNGw4Ni41LTI0MwoJCQkJaDUxLjZsOTAuMSwyNDNINDQzLjZ6IE0zNDAuNCwyOTQuM2wtNDAuOS0xMTcuMWwtMzkuNywxMTcuMUgzNDAuNHoiLz4KCQk8L2c+Cgk8L2c+Cgk8ZyBpZD0iWE1MSURfMTBfIj4KCQk8Y2lyY2xlIGlkPSJYTUxJRF84XyIgY2xhc3M9InN0MSIgY3g9IjMwMCIgY3k9IjMwMCIgcj0iMjM5Ii8+Cgk8L2c+CjwvZz4KPC9zdmc+&logoColor=white" />
+      </a>
+      <br/>
+      <b>Atuals</b> — my AI agency. Custom AI agents and automation, built for you.
     </td>
   </tr>
 </table>
@@ -103,16 +103,17 @@
 </p>
 
 <p align="center">
-  💼 Want something like this built for your business?
-  <a href="mailto:renato.dinis@atuals.com?subject=Project%20inquiry%20%E2%80%94%20Atuals"><b>Work with me</b></a>
+  🤝 Learning to build with AI?
+  <a href="https://atuals.com/community"><b>Join the community</b></a>
   &nbsp;·&nbsp;
-  <a href="https://atuals.com/"><b>atuals.com</b></a>
+  💼 Rather have it built?
+  <a href="mailto:renato.dinis@atuals.com?subject=Project%20inquiry%20%E2%80%94%20Atuals"><b>Work with me</b></a>
 </p>
 
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Friday 12 June at 15:54 WEST
+  Last refresh: Friday 12 June at 17:57 WEST
 </p>
 
 <p align="center">
