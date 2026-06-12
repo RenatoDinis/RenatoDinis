@@ -82,9 +82,9 @@
       <sub><b>Graphify Cut My Claude Code Tokens 72×</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/fLRTKFA_ACc" target="_blank"><img src="https://i.ytimg.com/vi/fLRTKFA_ACc/hqdefault.jpg" alt="How I Made Shorts Without Video Editing" width="100%" /></a>
+      <a href="https://youtu.be/fLRTKFA_ACc" target="_blank"><img src="https://i.ytimg.com/vi/fLRTKFA_ACc/hqdefault.jpg" alt="How I Convert Any YouTube Video to a Short" width="100%" /></a>
       <br/>
-      <sub><b>How I Made Shorts Without Video Editing</b></sub>
+      <sub><b>How I Convert Any YouTube Video to a Short</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/MrwSQxL0UPA" target="_blank"><img src="https://i.ytimg.com/vi/MrwSQxL0UPA/hqdefault.jpg" alt="No Keyframes? The Future Of Edit" width="100%" /></a>
@@ -113,7 +113,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Friday 12 June at 18:41 WEST
+  Last refresh: Friday 12 June at 21:07 WEST
 </p>
 
 <p align="center">
