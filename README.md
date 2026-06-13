@@ -72,24 +72,24 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/yhLtGs1mLh4" target="_blank"><img src="https://i.ytimg.com/vi/yhLtGs1mLh4/hqdefault.jpg" alt="How I Cut Claude Tokens By 80% #claudecode" width="100%" /></a>
+      <a href="https://youtu.be/yhLtGs1mLh4" target="_blank"><img src="https://i.ytimg.com/vi/yhLtGs1mLh4/hqdefault.jpg" alt="8 Tips To Never Hit Claude Limits #claudecode" width="100%" /></a>
       <br/>
-      <sub><b>How I Cut Claude Tokens By 80% #claudecode</b></sub>
+      <sub><b>8 Tips To Never Hit Claude Limits #claudecode</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/Qm4h0R1kMDc" target="_blank"><img src="https://i.ytimg.com/vi/Qm4h0R1kMDc/hqdefault.jpg" alt="How I Set Up Graphify In Claude Code" width="100%" /></a>
+      <a href="https://youtu.be/Qm4h0R1kMDc" target="_blank"><img src="https://i.ytimg.com/vi/Qm4h0R1kMDc/hqdefault.jpg" alt="Graphify Cut My Claude Code Tokens 72×" width="100%" /></a>
       <br/>
-      <sub><b>How I Set Up Graphify In Claude Code</b></sub>
+      <sub><b>Graphify Cut My Claude Code Tokens 72×</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/fLRTKFA_ACc" target="_blank"><img src="https://i.ytimg.com/vi/fLRTKFA_ACc/hqdefault.jpg" alt="How I Made Shorts Without Video Editing" width="100%" /></a>
+      <a href="https://youtu.be/fLRTKFA_ACc" target="_blank"><img src="https://i.ytimg.com/vi/fLRTKFA_ACc/hqdefault.jpg" alt="How I Convert Any YouTube Video to a Short" width="100%" /></a>
       <br/>
-      <sub><b>How I Made Shorts Without Video Editing</b></sub>
+      <sub><b>How I Convert Any YouTube Video to a Short</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/MrwSQxL0UPA" target="_blank"><img src="https://i.ytimg.com/vi/MrwSQxL0UPA/hqdefault.jpg" alt="I Edit 10x Faster With AI" width="100%" /></a>
+      <a href="https://youtu.be/MrwSQxL0UPA" target="_blank"><img src="https://i.ytimg.com/vi/MrwSQxL0UPA/hqdefault.jpg" alt="No Keyframes? The Future Of Edit" width="100%" /></a>
       <br/>
-      <sub><b>I Edit 10x Faster With AI</b></sub>
+      <sub><b>No Keyframes? The Future Of Edit</b></sub>
     </td>
   </tr>
 </table>
@@ -113,7 +113,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Saturday 13 June at 14:55 WEST
+  Last refresh: Saturday 13 June at 20:22 WEST
 </p>
 
 <p align="center">
