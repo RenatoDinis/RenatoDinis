@@ -72,14 +72,14 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/Q1kQlWb6uqQ" target="_blank"><img src="https://i.ytimg.com/vi/Q1kQlWb6uqQ/hqdefault.jpg" alt="3 Ways To Give Claude Code A Browser" width="100%" /></a>
+      <a href="https://youtu.be/Q1kQlWb6uqQ" target="_blank"><img src="https://i.ytimg.com/vi/Q1kQlWb6uqQ/hqdefault.jpg" alt="Chrome vs Playwright vs Agent Browser" width="100%" /></a>
       <br/>
-      <sub><b>3 Ways To Give Claude Code A Browser</b></sub>
+      <sub><b>Chrome vs Playwright vs Agent Browser</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/yhLtGs1mLh4" target="_blank"><img src="https://i.ytimg.com/vi/yhLtGs1mLh4/hqdefault.jpg" alt="8 Tips To Never Hit Claude Limits #claudecode" width="100%" /></a>
+      <a href="https://youtu.be/yhLtGs1mLh4" target="_blank"><img src="https://i.ytimg.com/vi/yhLtGs1mLh4/hqdefault.jpg" alt="How I Cut Claude Tokens By 80% #claudecode" width="100%" /></a>
       <br/>
-      <sub><b>8 Tips To Never Hit Claude Limits #claudecode</b></sub>
+      <sub><b>How I Cut Claude Tokens By 80% #claudecode</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/Qm4h0R1kMDc" target="_blank"><img src="https://i.ytimg.com/vi/Qm4h0R1kMDc/hqdefault.jpg" alt="Graphify Cut My Claude Code Tokens 72×" width="100%" /></a>
@@ -113,7 +113,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Monday 15 June at 13:08 WEST
+  Last refresh: Monday 15 June at 21:52 WEST
 </p>
 
 <p align="center">
