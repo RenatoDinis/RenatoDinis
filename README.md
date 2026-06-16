@@ -72,9 +72,9 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/Q1kQlWb6uqQ" target="_blank"><img src="https://i.ytimg.com/vi/Q1kQlWb6uqQ/hqdefault.jpg" alt="3 Ways To Give Claude Code A Browser" width="100%" /></a>
+      <a href="https://youtu.be/Q1kQlWb6uqQ" target="_blank"><img src="https://i.ytimg.com/vi/Q1kQlWb6uqQ/hqdefault.jpg" alt="Chrome vs Playwright vs Agent Browser" width="100%" /></a>
       <br/>
-      <sub><b>3 Ways To Give Claude Code A Browser</b></sub>
+      <sub><b>Chrome vs Playwright vs Agent Browser</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/yhLtGs1mLh4" target="_blank"><img src="https://i.ytimg.com/vi/yhLtGs1mLh4/hqdefault.jpg" alt="8 Tips To Never Hit Claude Limits #claudecode" width="100%" /></a>
@@ -113,7 +113,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Tuesday 16 June at 17:47 WEST
+  Last refresh: Tuesday 16 June at 21:47 WEST
 </p>
 
 <p align="center">
