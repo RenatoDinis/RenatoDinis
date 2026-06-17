@@ -72,14 +72,14 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/Q1kQlWb6uqQ" target="_blank"><img src="https://i.ytimg.com/vi/Q1kQlWb6uqQ/hqdefault.jpg" alt="Which Browser Tool For Claude Code?" width="100%" /></a>
+      <a href="https://youtu.be/Q1kQlWb6uqQ" target="_blank"><img src="https://i.ytimg.com/vi/Q1kQlWb6uqQ/hqdefault.jpg" alt="Chrome vs Playwright vs Agent Browser" width="100%" /></a>
       <br/>
-      <sub><b>Which Browser Tool For Claude Code?</b></sub>
+      <sub><b>Chrome vs Playwright vs Agent Browser</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/yhLtGs1mLh4" target="_blank"><img src="https://i.ytimg.com/vi/yhLtGs1mLh4/hqdefault.jpg" alt="Fix This Before Claude Eats Your Tokens #claudecode" width="100%" /></a>
+      <a href="https://youtu.be/yhLtGs1mLh4" target="_blank"><img src="https://i.ytimg.com/vi/yhLtGs1mLh4/hqdefault.jpg" alt="How I Cut Claude Tokens By 80% #claudecode" width="100%" /></a>
       <br/>
-      <sub><b>Fix This Before Claude Eats Your Tokens #claudecode</b></sub>
+      <sub><b>How I Cut Claude Tokens By 80% #claudecode</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/Qm4h0R1kMDc" target="_blank"><img src="https://i.ytimg.com/vi/Qm4h0R1kMDc/hqdefault.jpg" alt="Graphify Cut My Claude Code Tokens 72×" width="100%" /></a>
@@ -87,9 +87,9 @@
       <sub><b>Graphify Cut My Claude Code Tokens 72×</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/fLRTKFA_ACc" target="_blank"><img src="https://i.ytimg.com/vi/fLRTKFA_ACc/hqdefault.jpg" alt="Make YouTube Shorts From a Single Link" width="100%" /></a>
+      <a href="https://youtu.be/fLRTKFA_ACc" target="_blank"><img src="https://i.ytimg.com/vi/fLRTKFA_ACc/hqdefault.jpg" alt="How I Convert Any YouTube Video to a Short" width="100%" /></a>
       <br/>
-      <sub><b>Make YouTube Shorts From a Single Link</b></sub>
+      <sub><b>How I Convert Any YouTube Video to a Short</b></sub>
     </td>
   </tr>
 </table>
@@ -113,7 +113,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Wednesday 17 June at 04:57 WEST
+  Last refresh: Wednesday 17 June at 11:51 WEST
 </p>
 
 <p align="center">
