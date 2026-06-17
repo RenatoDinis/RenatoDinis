@@ -87,9 +87,9 @@
       <sub><b>Graphify Cut My Claude Code Tokens 72×</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/fLRTKFA_ACc" target="_blank"><img src="https://i.ytimg.com/vi/fLRTKFA_ACc/hqdefault.jpg" alt="Make YouTube Shorts From a Single Link" width="100%" /></a>
+      <a href="https://youtu.be/fLRTKFA_ACc" target="_blank"><img src="https://i.ytimg.com/vi/fLRTKFA_ACc/hqdefault.jpg" alt="How I Made Shorts Without Video Editing" width="100%" /></a>
       <br/>
-      <sub><b>Make YouTube Shorts From a Single Link</b></sub>
+      <sub><b>How I Made Shorts Without Video Editing</b></sub>
     </td>
   </tr>
 </table>
@@ -113,7 +113,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Wednesday 17 June at 16:22 WEST
+  Last refresh: Wednesday 17 June at 21:09 WEST
 </p>
 
 <p align="center">
