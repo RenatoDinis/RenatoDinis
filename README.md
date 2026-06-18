@@ -72,6 +72,11 @@
 <table>
   <tr>
     <td align="center" width="25%">
+      <a href="https://youtu.be/k9n-hHdhuBI" target="_blank"><img src="https://i.ytimg.com/vi/k9n-hHdhuBI/hqdefault.jpg" alt="Fable 5: Banned 4 Days After Launch" width="100%" /></a>
+      <br/>
+      <sub><b>Fable 5: Banned 4 Days After Launch</b></sub>
+    </td>
+    <td align="center" width="25%">
       <a href="https://youtu.be/Q1kQlWb6uqQ" target="_blank"><img src="https://i.ytimg.com/vi/Q1kQlWb6uqQ/hqdefault.jpg" alt="Which Browser Tool For Claude Code?" width="100%" /></a>
       <br/>
       <sub><b>Which Browser Tool For Claude Code?</b></sub>
@@ -85,11 +90,6 @@
       <a href="https://youtu.be/Qm4h0R1kMDc" target="_blank"><img src="https://i.ytimg.com/vi/Qm4h0R1kMDc/hqdefault.jpg" alt="Graphify Cut My Claude Code Tokens 72×" width="100%" /></a>
       <br/>
       <sub><b>Graphify Cut My Claude Code Tokens 72×</b></sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://youtu.be/fLRTKFA_ACc" target="_blank"><img src="https://i.ytimg.com/vi/fLRTKFA_ACc/hqdefault.jpg" alt="How I Made Shorts Without Video Editing" width="100%" /></a>
-      <br/>
-      <sub><b>How I Made Shorts Without Video Editing</b></sub>
     </td>
   </tr>
 </table>
@@ -113,7 +113,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Wednesday 17 June at 21:09 WEST
+  Last refresh: Thursday 18 June at 04:45 WEST
 </p>
 
 <p align="center">
