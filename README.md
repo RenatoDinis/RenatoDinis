@@ -77,9 +77,9 @@
       <sub><b>Fable 5: Banned 4 Days After Launch</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/Q1kQlWb6uqQ" target="_blank"><img src="https://i.ytimg.com/vi/Q1kQlWb6uqQ/hqdefault.jpg" alt="3 Ways To Give Claude Code A Browser" width="100%" /></a>
+      <a href="https://youtu.be/Q1kQlWb6uqQ" target="_blank"><img src="https://i.ytimg.com/vi/Q1kQlWb6uqQ/hqdefault.jpg" alt="Which Browser Tool For Claude Code?" width="100%" /></a>
       <br/>
-      <sub><b>3 Ways To Give Claude Code A Browser</b></sub>
+      <sub><b>Which Browser Tool For Claude Code?</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/yhLtGs1mLh4" target="_blank"><img src="https://i.ytimg.com/vi/yhLtGs1mLh4/hqdefault.jpg" alt="Fix This Before Claude Eats Your Tokens #claudecode" width="100%" /></a>
@@ -113,7 +113,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Thursday 18 June at 16:19 WEST
+  Last refresh: Thursday 18 June at 21:23 WEST
 </p>
 
 <p align="center">
