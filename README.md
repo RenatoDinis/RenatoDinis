@@ -110,9 +110,9 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/j8-do7UfQ4M" target="_blank"><img src="https://i.ytimg.com/vi/j8-do7UfQ4M/hqdefault.jpg" alt="Ponytail Isn&#39;t Cheaper (I Tested It)" width="100%" /></a>
+      <a href="https://youtu.be/j8-do7UfQ4M" target="_blank"><img src="https://i.ytimg.com/vi/j8-do7UfQ4M/hqdefault.jpg" alt="Ponytail Won&#39;t Save You Money" width="100%" /></a>
       <br/>
-      <sub><b>Ponytail Isn&#39;t Cheaper (I Tested It)</b></sub>
+      <sub><b>Ponytail Won&#39;t Save You Money</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/k9n-hHdhuBI" target="_blank"><img src="https://i.ytimg.com/vi/k9n-hHdhuBI/hqdefault.jpg" alt="The US Just Banned The Best AI" width="100%" /></a>
@@ -125,9 +125,9 @@
       <sub><b>3 Ways To Give Claude Code A Browser</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/yhLtGs1mLh4" target="_blank"><img src="https://i.ytimg.com/vi/yhLtGs1mLh4/hqdefault.jpg" alt="Fix This Before Claude Eats Your Tokens #claudecode" width="100%" /></a>
+      <a href="https://youtu.be/yhLtGs1mLh4" target="_blank"><img src="https://i.ytimg.com/vi/yhLtGs1mLh4/hqdefault.jpg" alt="How I Cut Claude Tokens By 80% #claudecode" width="100%" /></a>
       <br/>
-      <sub><b>Fix This Before Claude Eats Your Tokens #claudecode</b></sub>
+      <sub><b>How I Cut Claude Tokens By 80% #claudecode</b></sub>
     </td>
   </tr>
 </table>
@@ -151,7 +151,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Saturday 20 June at 18:53 WEST
+  Last refresh: Saturday 20 June at 20:23 WEST
 </p>
 
 <p align="center">
