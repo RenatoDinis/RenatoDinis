@@ -87,18 +87,18 @@
       <sub><b>3 Ways To Give Claude Code A Browser</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/yhLtGs1mLh4" target="_blank"><img src="https://i.ytimg.com/vi/yhLtGs1mLh4/hqdefault.jpg" alt="How I Cut Claude Tokens By 80% #claudecode" width="100%" /></a>
+      <a href="https://youtu.be/yhLtGs1mLh4" target="_blank"><img src="https://i.ytimg.com/vi/yhLtGs1mLh4/hqdefault.jpg" alt="8 Tips To Never Hit Claude Limits #claudecode" width="100%" /></a>
       <br/>
-      <sub><b>How I Cut Claude Tokens By 80% #claudecode</b></sub>
+      <sub><b>8 Tips To Never Hit Claude Limits #claudecode</b></sub>
     </td>
   </tr>
 </table>
 
 <h3 align="center">✍️ Latest from the Atuals blog</h3>
 <p align="center">
-  <a href="https://atuals.com/blog/how-i-set-up-graphify-in-claude-code" target="_blank"><b>How I Set Up Graphify In Claude Code</b></a> · <sub>10 Jun 2026</sub><br/>
-  <a href="https://atuals.com/blog/how-i-convert-any-youtube-video-to-a-short" target="_blank"><b>How I Convert Any YouTube Video to a Short</b></a> · <sub>4 Jun 2026</sub><br/>
-  <a href="https://atuals.com/blog/no-keyframes-the-future-of-edit" target="_blank"><b>No Keyframes: The Future of Video Editing</b></a> · <sub>26 May 2026</sub><br/>
+  <a href="https://atuals.com/blog/i-tested-ponytail" target="_blank"><b>I Tested Ponytail: When It Helps And When It Doesn&#39;t</b></a> · <sub>19 Jun 2026</sub><br/>
+  <a href="https://atuals.com/blog/what-happened-to-fable-5" target="_blank"><b>What Happened To Fable 5</b></a> · <sub>18 Jun 2026</sub><br/>
+  <a href="https://atuals.com/blog/3-ways-to-give-claude-code-a-browser" target="_blank"><b>3 Ways To Give Claude Code A Browser</b></a> · <sub>14 Jun 2026</sub><br/>
   <sub><a href="https://atuals.com/blog" target="_blank">all posts →</a></sub>
 </p>
 
@@ -113,7 +113,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Saturday 20 June at 09:52 WEST
+  Last refresh: Saturday 20 June at 14:58 WEST
 </p>
 
 <p align="center">
