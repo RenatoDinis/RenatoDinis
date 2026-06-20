@@ -68,18 +68,56 @@
   </tr>
 </table>
 
+<h3 align="center">🎓 Learn to build — pick a track</h3>
+<p align="center">
+  New here? Start with my best builds across every topic.
+  <br/>
+  <a href="https://www.youtube.com/playlist?list=PLpUd9RuZAhlzfPiA5grQ1oeaI0xsShC8l" target="_blank">
+    <img alt="Start Here" src="https://img.shields.io/badge/▶_Start_Here_—_Best_Of-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <a href="https://www.youtube.com/playlist?list=PLpUd9RuZAhlxyGEhmfKmruznhCGaQbj1P" target="_blank"><img src="https://img.youtube.com/vi/ahw7BCLy4yU/hqdefault.jpg" alt="n8n Automation Workflows" width="100%" /></a>
+      <br/>
+      <sub><b>n8n Automation</b></sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.youtube.com/playlist?list=PLpUd9RuZAhlz7WSlCYwjpA9eW51fRCgYI" target="_blank"><img src="https://img.youtube.com/vi/Qm4h0R1kMDc/hqdefault.jpg" alt="Claude Code & AI Dev Tools" width="100%" /></a>
+      <br/>
+      <sub><b>Claude Code</b></sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.youtube.com/playlist?list=PLpUd9RuZAhlzsfPRPpZL8bUJLO-P5ExRC" target="_blank"><img src="https://img.youtube.com/vi/qxe3g1Y9JkE/hqdefault.jpg" alt="Local AI — OpenClaw & Self-Hosted" width="100%" /></a>
+      <br/>
+      <sub><b>Local AI</b></sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.youtube.com/playlist?list=PLpUd9RuZAhlxtItbLmA3AU53BgNO3hGzG" target="_blank"><img src="https://img.youtube.com/vi/iAtD8NEto-g/hqdefault.jpg" alt="AI Video Factory" width="100%" /></a>
+      <br/>
+      <sub><b>AI Video</b></sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.youtube.com/playlist?list=PLpUd9RuZAhlzSCU2zlYwSJXw7tC0soBNd" target="_blank"><img src="https://img.youtube.com/vi/fLRTKFA_ACc/hqdefault.jpg" alt="AI for Content Creators" width="100%" /></a>
+      <br/>
+      <sub><b>Content Creators</b></sub>
+    </td>
+  </tr>
+</table>
+
 <h3 align="center">📺 Latest from YouTube</h3>
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/j8-do7UfQ4M" target="_blank"><img src="https://i.ytimg.com/vi/j8-do7UfQ4M/hqdefault.jpg" alt="Ponytail Won&#39;t Save You Money" width="100%" /></a>
+      <a href="https://youtu.be/j8-do7UfQ4M" target="_blank"><img src="https://i.ytimg.com/vi/j8-do7UfQ4M/hqdefault.jpg" alt="How To Use Ponytail (And When Not To)" width="100%" /></a>
       <br/>
-      <sub><b>Ponytail Won&#39;t Save You Money</b></sub>
+      <sub><b>How To Use Ponytail (And When Not To)</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/k9n-hHdhuBI" target="_blank"><img src="https://i.ytimg.com/vi/k9n-hHdhuBI/hqdefault.jpg" alt="Fable 5 Was #1. Then It Was Gone" width="100%" /></a>
+      <a href="https://youtu.be/k9n-hHdhuBI" target="_blank"><img src="https://i.ytimg.com/vi/k9n-hHdhuBI/hqdefault.jpg" alt="Fable 5: Banned 4 Days After Launch" width="100%" /></a>
       <br/>
-      <sub><b>Fable 5 Was #1. Then It Was Gone</b></sub>
+      <sub><b>Fable 5: Banned 4 Days After Launch</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/Q1kQlWb6uqQ" target="_blank"><img src="https://i.ytimg.com/vi/Q1kQlWb6uqQ/hqdefault.jpg" alt="3 Ways To Give Claude Code A Browser" width="100%" /></a>
@@ -87,9 +125,9 @@
       <sub><b>3 Ways To Give Claude Code A Browser</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/yhLtGs1mLh4" target="_blank"><img src="https://i.ytimg.com/vi/yhLtGs1mLh4/hqdefault.jpg" alt="8 Tips To Never Hit Claude Limits #claudecode" width="100%" /></a>
+      <a href="https://youtu.be/yhLtGs1mLh4" target="_blank"><img src="https://i.ytimg.com/vi/yhLtGs1mLh4/hqdefault.jpg" alt="Fix This Before Claude Eats Your Tokens #claudecode" width="100%" /></a>
       <br/>
-      <sub><b>8 Tips To Never Hit Claude Limits #claudecode</b></sub>
+      <sub><b>Fix This Before Claude Eats Your Tokens #claudecode</b></sub>
     </td>
   </tr>
 </table>
@@ -113,7 +151,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Saturday 20 June at 14:58 WEST
+  Last refresh: Saturday 20 June at 18:52 WEST
 </p>
 
 <p align="center">
