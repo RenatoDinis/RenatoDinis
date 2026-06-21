@@ -115,9 +115,9 @@
       <sub><b>Ponytail Won&#39;t Save You Money</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/k9n-hHdhuBI" target="_blank"><img src="https://i.ytimg.com/vi/k9n-hHdhuBI/hqdefault.jpg" alt="The US Just Banned The Best AI" width="100%" /></a>
+      <a href="https://youtu.be/k9n-hHdhuBI" target="_blank"><img src="https://i.ytimg.com/vi/k9n-hHdhuBI/hqdefault.jpg" alt="Fable 5: Banned 4 Days After Launch" width="100%" /></a>
       <br/>
-      <sub><b>The US Just Banned The Best AI</b></sub>
+      <sub><b>Fable 5: Banned 4 Days After Launch</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/Q1kQlWb6uqQ" target="_blank"><img src="https://i.ytimg.com/vi/Q1kQlWb6uqQ/hqdefault.jpg" alt="3 Ways To Give Claude Code A Browser" width="100%" /></a>
@@ -151,7 +151,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Sunday 21 June at 05:01 WEST
+  Last refresh: Sunday 21 June at 10:46 WEST
 </p>
 
 <p align="center">
