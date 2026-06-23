@@ -115,9 +115,9 @@
       <sub><b>Ponytail Isn&#39;t Cheaper (I Tested It)</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/k9n-hHdhuBI" target="_blank"><img src="https://i.ytimg.com/vi/k9n-hHdhuBI/hqdefault.jpg" alt="Fable 5 Was #1. Then It Was Gone" width="100%" /></a>
+      <a href="https://youtu.be/k9n-hHdhuBI" target="_blank"><img src="https://i.ytimg.com/vi/k9n-hHdhuBI/hqdefault.jpg" alt="Fable 5: Banned 4 Days After Launch" width="100%" /></a>
       <br/>
-      <sub><b>Fable 5 Was #1. Then It Was Gone</b></sub>
+      <sub><b>Fable 5: Banned 4 Days After Launch</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/Q1kQlWb6uqQ" target="_blank"><img src="https://i.ytimg.com/vi/Q1kQlWb6uqQ/hqdefault.jpg" alt="3 Ways To Give Claude Code A Browser" width="100%" /></a>
@@ -125,9 +125,9 @@
       <sub><b>3 Ways To Give Claude Code A Browser</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/yhLtGs1mLh4" target="_blank"><img src="https://i.ytimg.com/vi/yhLtGs1mLh4/hqdefault.jpg" alt="8 Tips To Never Hit Claude Limits #claudecode" width="100%" /></a>
+      <a href="https://youtu.be/yhLtGs1mLh4" target="_blank"><img src="https://i.ytimg.com/vi/yhLtGs1mLh4/hqdefault.jpg" alt="Fix This Before Claude Eats Your Tokens #claudecode" width="100%" /></a>
       <br/>
-      <sub><b>8 Tips To Never Hit Claude Limits #claudecode</b></sub>
+      <sub><b>Fix This Before Claude Eats Your Tokens #claudecode</b></sub>
     </td>
   </tr>
 </table>
@@ -151,7 +151,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Tuesday 23 June at 15:43 WEST
+  Last refresh: Tuesday 23 June at 21:00 WEST
 </p>
 
 <p align="center">
