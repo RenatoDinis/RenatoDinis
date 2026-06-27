@@ -110,9 +110,9 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/of1oFgVsLhc" target="_blank"><img src="https://i.ytimg.com/vi/of1oFgVsLhc/hqdefault.jpg" alt="How I Use Claude Code to Make Viral Carousels" width="100%" /></a>
+      <a href="https://youtu.be/of1oFgVsLhc" target="_blank"><img src="https://i.ytimg.com/vi/of1oFgVsLhc/hqdefault.jpg" alt="Your Carousels Suck (Here&#39;s The Fix)" width="100%" /></a>
       <br/>
-      <sub><b>How I Use Claude Code to Make Viral Carousels</b></sub>
+      <sub><b>Your Carousels Suck (Here&#39;s The Fix)</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/oH1zXCcSQP4" target="_blank"><img src="https://i.ytimg.com/vi/oH1zXCcSQP4/hqdefault.jpg" alt="Headroom Has 47K Stars (Does It Work?)" width="100%" /></a>
@@ -134,9 +134,9 @@
 
 <h3 align="center">✍️ Latest from the Atuals blog</h3>
 <p align="center">
+  <a href="https://atuals.com/blog/make-viral-carousels-with-claude-code" target="_blank"><b>How I Use Claude Code to Make Viral Carousels</b></a> · <sub>26 Jun 2026</sub><br/>
+  <a href="https://atuals.com/blog/i-tested-headroom" target="_blank"><b>I Tested Headroom: Where the 95% Token Savings Is Real (And Where It Isn&#39;t)</b></a> · <sub>23 Jun 2026</sub><br/>
   <a href="https://atuals.com/blog/i-tested-ponytail" target="_blank"><b>I Tested Ponytail: When It Helps And When It Doesn&#39;t</b></a> · <sub>19 Jun 2026</sub><br/>
-  <a href="https://atuals.com/blog/what-happened-to-fable-5" target="_blank"><b>What Happened To Fable 5</b></a> · <sub>18 Jun 2026</sub><br/>
-  <a href="https://atuals.com/blog/3-ways-to-give-claude-code-a-browser" target="_blank"><b>3 Ways To Give Claude Code A Browser</b></a> · <sub>14 Jun 2026</sub><br/>
   <sub><a href="https://atuals.com/blog" target="_blank">all posts →</a></sub>
 </p>
 
@@ -151,7 +151,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Saturday 27 June at 14:28 WEST
+  Last refresh: Saturday 27 June at 20:17 WEST
 </p>
 
 <p align="center">
