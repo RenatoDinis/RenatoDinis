@@ -110,6 +110,11 @@
 <table>
   <tr>
     <td align="center" width="25%">
+      <a href="https://youtu.be/of1oFgVsLhc" target="_blank"><img src="https://i.ytimg.com/vi/of1oFgVsLhc/hqdefault.jpg" alt="How I Use Claude Code to Make Viral Carousels" width="100%" /></a>
+      <br/>
+      <sub><b>How I Use Claude Code to Make Viral Carousels</b></sub>
+    </td>
+    <td align="center" width="25%">
       <a href="https://youtu.be/oH1zXCcSQP4" target="_blank"><img src="https://i.ytimg.com/vi/oH1zXCcSQP4/hqdefault.jpg" alt="Headroom Has 47K Stars (Does It Work?)" width="100%" /></a>
       <br/>
       <sub><b>Headroom Has 47K Stars (Does It Work?)</b></sub>
@@ -120,14 +125,9 @@
       <sub><b>Ponytail Isn&#39;t Cheaper (I Tested It)</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/k9n-hHdhuBI" target="_blank"><img src="https://i.ytimg.com/vi/k9n-hHdhuBI/hqdefault.jpg" alt="Fable 5: Banned 4 Days After Launch" width="100%" /></a>
+      <a href="https://youtu.be/k9n-hHdhuBI" target="_blank"><img src="https://i.ytimg.com/vi/k9n-hHdhuBI/hqdefault.jpg" alt="The US Just Banned The Best AI" width="100%" /></a>
       <br/>
-      <sub><b>Fable 5: Banned 4 Days After Launch</b></sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://youtu.be/Q1kQlWb6uqQ" target="_blank"><img src="https://i.ytimg.com/vi/Q1kQlWb6uqQ/hqdefault.jpg" alt="3 Ways To Give Claude Code A Browser" width="100%" /></a>
-      <br/>
-      <sub><b>3 Ways To Give Claude Code A Browser</b></sub>
+      <sub><b>The US Just Banned The Best AI</b></sub>
     </td>
   </tr>
 </table>
@@ -151,7 +151,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Friday 26 June at 20:48 WEST
+  Last refresh: Saturday 27 June at 03:54 WEST
 </p>
 
 <p align="center">
