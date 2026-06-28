@@ -110,9 +110,9 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/of1oFgVsLhc" target="_blank"><img src="https://i.ytimg.com/vi/of1oFgVsLhc/hqdefault.jpg" alt="Your Carousels Suck (Here&#39;s The Fix)" width="100%" /></a>
+      <a href="https://youtu.be/of1oFgVsLhc" target="_blank"><img src="https://i.ytimg.com/vi/of1oFgVsLhc/hqdefault.jpg" alt="How I Use Claude Code to Make Viral Carousels" width="100%" /></a>
       <br/>
-      <sub><b>Your Carousels Suck (Here&#39;s The Fix)</b></sub>
+      <sub><b>How I Use Claude Code to Make Viral Carousels</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/oH1zXCcSQP4" target="_blank"><img src="https://i.ytimg.com/vi/oH1zXCcSQP4/hqdefault.jpg" alt="Headroom Has 47K Stars (Does It Work?)" width="100%" /></a>
@@ -151,7 +151,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Saturday 27 June at 20:17 WEST
+  Last refresh: Sunday 28 June at 04:37 WEST
 </p>
 
 <p align="center">
