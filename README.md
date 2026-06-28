@@ -125,9 +125,9 @@
       <sub><b>Ponytail Isn&#39;t Cheaper (I Tested It)</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/k9n-hHdhuBI" target="_blank"><img src="https://i.ytimg.com/vi/k9n-hHdhuBI/hqdefault.jpg" alt="Fable 5: Banned 4 Days After Launch" width="100%" /></a>
+      <a href="https://youtu.be/k9n-hHdhuBI" target="_blank"><img src="https://i.ytimg.com/vi/k9n-hHdhuBI/hqdefault.jpg" alt="Fable 5 Was #1. Then It Was Gone" width="100%" /></a>
       <br/>
-      <sub><b>Fable 5: Banned 4 Days After Launch</b></sub>
+      <sub><b>Fable 5 Was #1. Then It Was Gone</b></sub>
     </td>
   </tr>
 </table>
@@ -151,7 +151,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Sunday 28 June at 04:37 WEST
+  Last refresh: Sunday 28 June at 09:48 WEST
 </p>
 
 <p align="center">
