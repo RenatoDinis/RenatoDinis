@@ -110,9 +110,9 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/of1oFgVsLhc" target="_blank"><img src="https://i.ytimg.com/vi/of1oFgVsLhc/hqdefault.jpg" alt="I Built a Carousel System with One Screenshot" width="100%" /></a>
+      <a href="https://youtu.be/of1oFgVsLhc" target="_blank"><img src="https://i.ytimg.com/vi/of1oFgVsLhc/hqdefault.jpg" alt="The Secret to Perfect Carousels in Seconds" width="100%" /></a>
       <br/>
-      <sub><b>I Built a Carousel System with One Screenshot</b></sub>
+      <sub><b>The Secret to Perfect Carousels in Seconds</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/oH1zXCcSQP4" target="_blank"><img src="https://i.ytimg.com/vi/oH1zXCcSQP4/hqdefault.jpg" alt="Headroom Has 47K Stars (Does It Work?)" width="100%" /></a>
@@ -151,7 +151,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Sunday 5 July at 14:26 WEST
+  Last refresh: Sunday 5 July at 20:14 WEST
 </p>
 
 <p align="center">
