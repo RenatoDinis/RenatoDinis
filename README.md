@@ -110,9 +110,14 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/of1oFgVsLhc" target="_blank"><img src="https://i.ytimg.com/vi/of1oFgVsLhc/hqdefault.jpg" alt="The Secret to Perfect Carousels in Seconds" width="100%" /></a>
+      <a href="https://youtu.be/wGODMF-opL0" target="_blank"><img src="https://i.ytimg.com/vi/wGODMF-opL0/hqdefault.jpg" alt="Caveman Mode: 65% Fewer Claude Tokens? I Measured" width="100%" /></a>
       <br/>
-      <sub><b>The Secret to Perfect Carousels in Seconds</b></sub>
+      <sub><b>Caveman Mode: 65% Fewer Claude Tokens? I Measured</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://youtu.be/of1oFgVsLhc" target="_blank"><img src="https://i.ytimg.com/vi/of1oFgVsLhc/hqdefault.jpg" alt="The Only Carousel Workflow You Need in 2026" width="100%" /></a>
+      <br/>
+      <sub><b>The Only Carousel Workflow You Need in 2026</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/oH1zXCcSQP4" target="_blank"><img src="https://i.ytimg.com/vi/oH1zXCcSQP4/hqdefault.jpg" alt="Headroom Has 47K Stars (Does It Work?)" width="100%" /></a>
@@ -123,11 +128,6 @@
       <a href="https://youtu.be/j8-do7UfQ4M" target="_blank"><img src="https://i.ytimg.com/vi/j8-do7UfQ4M/hqdefault.jpg" alt="Ponytail Isn&#39;t Cheaper (I Tested It)" width="100%" /></a>
       <br/>
       <sub><b>Ponytail Isn&#39;t Cheaper (I Tested It)</b></sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://youtu.be/k9n-hHdhuBI" target="_blank"><img src="https://i.ytimg.com/vi/k9n-hHdhuBI/hqdefault.jpg" alt="Fable 5: Banned 4 Days After Launch" width="100%" /></a>
-      <br/>
-      <sub><b>Fable 5: Banned 4 Days After Launch</b></sub>
     </td>
   </tr>
 </table>
@@ -151,7 +151,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Sunday 5 July at 20:14 WEST
+  Last refresh: Monday 6 July at 04:20 WEST
 </p>
 
 <p align="center">
