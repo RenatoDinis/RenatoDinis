@@ -110,9 +110,9 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/wGODMF-opL0" target="_blank"><img src="https://i.ytimg.com/vi/wGODMF-opL0/hqdefault.jpg" alt="Why Use Many Token When Few Token Do Trick" width="100%" /></a>
+      <a href="https://youtu.be/wGODMF-opL0" target="_blank"><img src="https://i.ytimg.com/vi/wGODMF-opL0/hqdefault.jpg" alt="Caveman Mode: 65% Fewer Claude Tokens? I Measured" width="100%" /></a>
       <br/>
-      <sub><b>Why Use Many Token When Few Token Do Trick</b></sub>
+      <sub><b>Caveman Mode: 65% Fewer Claude Tokens? I Measured</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/of1oFgVsLhc" target="_blank"><img src="https://i.ytimg.com/vi/of1oFgVsLhc/hqdefault.jpg" alt="The Only Carousel Workflow You Need in 2026" width="100%" /></a>
@@ -151,7 +151,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Monday 6 July at 11:15 WEST
+  Last refresh: Monday 6 July at 16:27 WEST
 </p>
 
 <p align="center">
