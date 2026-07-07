@@ -110,14 +110,14 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/wGODMF-opL0" target="_blank"><img src="https://i.ytimg.com/vi/wGODMF-opL0/hqdefault.jpg" alt="Why Use Many Token When Few Token Do Trick" width="100%" /></a>
+      <a href="https://youtu.be/wGODMF-opL0" target="_blank"><img src="https://i.ytimg.com/vi/wGODMF-opL0/hqdefault.jpg" alt="Caveman Mode: 65% Fewer Claude Tokens? I Measured" width="100%" /></a>
       <br/>
-      <sub><b>Why Use Many Token When Few Token Do Trick</b></sub>
+      <sub><b>Caveman Mode: 65% Fewer Claude Tokens? I Measured</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/of1oFgVsLhc" target="_blank"><img src="https://i.ytimg.com/vi/of1oFgVsLhc/hqdefault.jpg" alt="The Secret to Perfect Carousels in Seconds" width="100%" /></a>
+      <a href="https://youtu.be/of1oFgVsLhc" target="_blank"><img src="https://i.ytimg.com/vi/of1oFgVsLhc/hqdefault.jpg" alt="The Only Carousel Workflow You Need in 2026" width="100%" /></a>
       <br/>
-      <sub><b>The Secret to Perfect Carousels in Seconds</b></sub>
+      <sub><b>The Only Carousel Workflow You Need in 2026</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/oH1zXCcSQP4" target="_blank"><img src="https://i.ytimg.com/vi/oH1zXCcSQP4/hqdefault.jpg" alt="Headroom Has 47K Stars (Does It Work?)" width="100%" /></a>
@@ -151,7 +151,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Tuesday 7 July at 10:36 WEST
+  Last refresh: Tuesday 7 July at 15:28 WEST
 </p>
 
 <p align="center">
