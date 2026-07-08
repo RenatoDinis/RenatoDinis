@@ -110,9 +110,9 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/wGODMF-opL0" target="_blank"><img src="https://i.ytimg.com/vi/wGODMF-opL0/hqdefault.jpg" alt="I Made Claude Talk Like a Caveman for 1 Week" width="100%" /></a>
+      <a href="https://youtu.be/wGODMF-opL0" target="_blank"><img src="https://i.ytimg.com/vi/wGODMF-opL0/hqdefault.jpg" alt="Caveman Mode: 65% Fewer Claude Tokens? I Measured" width="100%" /></a>
       <br/>
-      <sub><b>I Made Claude Talk Like a Caveman for 1 Week</b></sub>
+      <sub><b>Caveman Mode: 65% Fewer Claude Tokens? I Measured</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/of1oFgVsLhc" target="_blank"><img src="https://i.ytimg.com/vi/of1oFgVsLhc/hqdefault.jpg" alt="The Only Carousel Workflow You Need in 2026" width="100%" /></a>
@@ -151,7 +151,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Wednesday 8 July at 14:59 WEST
+  Last refresh: Wednesday 8 July at 20:21 WEST
 </p>
 
 <p align="center">
