@@ -110,9 +110,9 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/wGODMF-opL0" target="_blank"><img src="https://i.ytimg.com/vi/wGODMF-opL0/hqdefault.jpg" alt="Why Use Many Token When Few Token Do Trick" width="100%" /></a>
+      <a href="https://youtu.be/wGODMF-opL0" target="_blank"><img src="https://i.ytimg.com/vi/wGODMF-opL0/hqdefault.jpg" alt="I Made Claude Talk Like a Caveman for 1 Week" width="100%" /></a>
       <br/>
-      <sub><b>Why Use Many Token When Few Token Do Trick</b></sub>
+      <sub><b>I Made Claude Talk Like a Caveman for 1 Week</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/of1oFgVsLhc" target="_blank"><img src="https://i.ytimg.com/vi/of1oFgVsLhc/hqdefault.jpg" alt="The Only Carousel Workflow You Need in 2026" width="100%" /></a>
@@ -134,9 +134,9 @@
 
 <h3 align="center">✍️ Latest from the Atuals blog</h3>
 <p align="center">
+  <a href="https://atuals.com/blog/i-tested-caveman" target="_blank"><b>I Tested Caveman Mode: 65% Fewer Claude Tokens? Here&#39;s My Real Number</b></a> · <sub>5 Jul 2026</sub><br/>
   <a href="https://atuals.com/blog/make-viral-carousels-with-claude-code" target="_blank"><b>How I Use Claude Code to Make Viral Carousels</b></a> · <sub>26 Jun 2026</sub><br/>
   <a href="https://atuals.com/blog/i-tested-headroom" target="_blank"><b>I Tested Headroom: Where the 95% Token Savings Is Real (And Where It Isn&#39;t)</b></a> · <sub>23 Jun 2026</sub><br/>
-  <a href="https://atuals.com/blog/i-tested-ponytail" target="_blank"><b>I Tested Ponytail: When It Helps And When It Doesn&#39;t</b></a> · <sub>19 Jun 2026</sub><br/>
   <sub><a href="https://atuals.com/blog" target="_blank">all posts →</a></sub>
 </p>
 
@@ -151,7 +151,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Wednesday 8 July at 09:23 WEST
+  Last refresh: Wednesday 8 July at 14:59 WEST
 </p>
 
 <p align="center">
