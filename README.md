@@ -139,9 +139,9 @@
       <sub><b>Why Use Many Token When Few Token Do Trick</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/of1oFgVsLhc" target="_blank"><img src="https://i.ytimg.com/vi/of1oFgVsLhc/hqdefault.jpg" alt="I Built a Carousel System with One Screenshot" width="100%" /></a>
+      <a href="https://youtu.be/of1oFgVsLhc" target="_blank"><img src="https://i.ytimg.com/vi/of1oFgVsLhc/hqdefault.jpg" alt="The Only Carousel Workflow You Need in 2026" width="100%" /></a>
       <br/>
-      <sub><b>I Built a Carousel System with One Screenshot</b></sub>
+      <sub><b>The Only Carousel Workflow You Need in 2026</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/oH1zXCcSQP4" target="_blank"><img src="https://i.ytimg.com/vi/oH1zXCcSQP4/hqdefault.jpg" alt="Headroom Has 47K Stars (Does It Work?)" width="100%" /></a>
@@ -175,7 +175,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Monday 13 July at 10:21 WEST
+  Last refresh: Monday 13 July at 15:29 WEST
 </p>
 
 <p align="center">
