@@ -134,6 +134,11 @@
 <table>
   <tr>
     <td align="center" width="25%">
+      <a href="https://youtu.be/GOhl0GRQfnU" target="_blank"><img src="https://i.ytimg.com/vi/GOhl0GRQfnU/hqdefault.jpg" alt="How to Give Your AI a Memory (Second Brain Setup)" width="100%" /></a>
+      <br/>
+      <sub><b>How to Give Your AI a Memory (Second Brain Setup)</b></sub>
+    </td>
+    <td align="center" width="25%">
       <a href="https://youtu.be/wGODMF-opL0" target="_blank"><img src="https://i.ytimg.com/vi/wGODMF-opL0/hqdefault.jpg" alt="Why Use Many Token When Few Token Do Trick" width="100%" /></a>
       <br/>
       <sub><b>Why Use Many Token When Few Token Do Trick</b></sub>
@@ -147,11 +152,6 @@
       <a href="https://youtu.be/oH1zXCcSQP4" target="_blank"><img src="https://i.ytimg.com/vi/oH1zXCcSQP4/hqdefault.jpg" alt="Headroom Has 47K Stars (Does It Work?)" width="100%" /></a>
       <br/>
       <sub><b>Headroom Has 47K Stars (Does It Work?)</b></sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://youtu.be/j8-do7UfQ4M" target="_blank"><img src="https://i.ytimg.com/vi/j8-do7UfQ4M/hqdefault.jpg" alt="Ponytail Isn&#39;t Cheaper (I Tested It)" width="100%" /></a>
-      <br/>
-      <sub><b>Ponytail Isn&#39;t Cheaper (I Tested It)</b></sub>
     </td>
   </tr>
 </table>
@@ -175,7 +175,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Tuesday 14 July at 20:15 WEST
+  Last refresh: Wednesday 15 July at 03:13 WEST
 </p>
 
 <p align="center">
