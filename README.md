@@ -134,9 +134,9 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/GOhl0GRQfnU" target="_blank"><img src="https://i.ytimg.com/vi/GOhl0GRQfnU/hqdefault.jpg" alt="How to Give Your AI a Memory (Second Brain Setup)" width="100%" /></a>
+      <a href="https://youtu.be/GOhl0GRQfnU" target="_blank"><img src="https://i.ytimg.com/vi/GOhl0GRQfnU/hqdefault.jpg" alt="How to Make Claude Remember Everything (Second Brain Setup)" width="100%" /></a>
       <br/>
-      <sub><b>How to Give Your AI a Memory (Second Brain Setup)</b></sub>
+      <sub><b>How to Make Claude Remember Everything (Second Brain Setup)</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/wGODMF-opL0" target="_blank"><img src="https://i.ytimg.com/vi/wGODMF-opL0/hqdefault.jpg" alt="Why Use Many Token When Few Token Do Trick" width="100%" /></a>
@@ -175,7 +175,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Saturday 18 July at 14:09 WEST
+  Last refresh: Saturday 18 July at 20:00 WEST
 </p>
 
 <p align="center">
