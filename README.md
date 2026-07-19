@@ -43,10 +43,10 @@
   <br/>
   You build first. Your website is live by Chapter 2. Then you learn to get paid for what you make.
   <br/>
-  Courses, live builds, and help from me when you're stuck.
+  Courses, live builds, and help from me when you're stuck. Try it free for 7 days.
   <br/><br/>
   <a href="https://atuals.com/community" target="_blank">
-    <img alt="Join the Build With AI Club" src="https://img.shields.io/badge/🏫_Join_the_Build_With_AI_Club-C15F3C?style=for-the-badge" />
+    <img alt="Try the Build With AI Club free for 7 days" src="https://img.shields.io/badge/🏫_Try_the_Club_free_for_7_days-C15F3C?style=for-the-badge" />
   </a>
 </p>
 
@@ -134,9 +134,9 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/GOhl0GRQfnU" target="_blank"><img src="https://i.ytimg.com/vi/GOhl0GRQfnU/hqdefault.jpg" alt="How to Give Your AI a Memory (Second Brain Setup)" width="100%" /></a>
+      <a href="https://youtu.be/GOhl0GRQfnU" target="_blank"><img src="https://i.ytimg.com/vi/GOhl0GRQfnU/hqdefault.jpg" alt="How to Build a Second Brain With Claude (Obsidian)" width="100%" /></a>
       <br/>
-      <sub><b>How to Give Your AI a Memory (Second Brain Setup)</b></sub>
+      <sub><b>How to Build a Second Brain With Claude (Obsidian)</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/wGODMF-opL0" target="_blank"><img src="https://i.ytimg.com/vi/wGODMF-opL0/hqdefault.jpg" alt="Why Use Many Token When Few Token Do Trick" width="100%" /></a>
@@ -166,7 +166,7 @@
 
 <p align="center">
   🤝 Want to go from zero to your first paid build with AI?
-  <a href="https://atuals.com/community"><b>Join the Build With AI Club</b></a>
+  <a href="https://atuals.com/community"><b>Try the Build With AI Club free for 7 days</b></a>
   &nbsp;·&nbsp;
   💼 Rather have it built?
   <a href="mailto:renato.dinis@atuals.com?subject=Project%20inquiry%20%E2%80%94%20Atuals"><b>Work with me</b></a>
@@ -175,7 +175,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Sunday 19 July at 09:12 WEST
+  Last refresh: Sunday 19 July at 10:37 WEST
 </p>
 
 <p align="center">
