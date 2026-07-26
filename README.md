@@ -134,6 +134,11 @@
 <table>
   <tr>
     <td align="center" width="25%">
+      <a href="https://youtu.be/nkwSA6i19Pc" target="_blank"><img src="https://i.ytimg.com/vi/nkwSA6i19Pc/hqdefault.jpg" alt="How to Clone Yourself With AI" width="100%" /></a>
+      <br/>
+      <sub><b>How to Clone Yourself With AI</b></sub>
+    </td>
+    <td align="center" width="25%">
       <a href="https://youtu.be/GOhl0GRQfnU" target="_blank"><img src="https://i.ytimg.com/vi/GOhl0GRQfnU/hqdefault.jpg" alt="How to Give Your AI a Memory (Second Brain Setup)" width="100%" /></a>
       <br/>
       <sub><b>How to Give Your AI a Memory (Second Brain Setup)</b></sub>
@@ -148,19 +153,14 @@
       <br/>
       <sub><b>The Only Carousel Workflow You Need in 2026</b></sub>
     </td>
-    <td align="center" width="25%">
-      <a href="https://youtu.be/oH1zXCcSQP4" target="_blank"><img src="https://i.ytimg.com/vi/oH1zXCcSQP4/hqdefault.jpg" alt="Headroom Has 47K Stars (Does It Work?)" width="100%" /></a>
-      <br/>
-      <sub><b>Headroom Has 47K Stars (Does It Work?)</b></sub>
-    </td>
   </tr>
 </table>
 
 <h3 align="center">✍️ Latest from the Atuals blog</h3>
 <p align="center">
+  <a href="https://atuals.com/blog/how-to-clone-yourself-with-ai" target="_blank"><b>How to Clone Yourself With AI</b></a> · <sub>26 Jul 2026</sub><br/>
   <a href="https://atuals.com/blog/how-to-give-your-ai-a-memory" target="_blank"><b>How to Give Your AI a Memory (Second Brain Setup)</b></a> · <sub>14 Jul 2026</sub><br/>
   <a href="https://atuals.com/blog/i-tested-caveman" target="_blank"><b>I Tested Caveman Mode: 65% Fewer Claude Tokens? Here&#39;s My Real Number</b></a> · <sub>5 Jul 2026</sub><br/>
-  <a href="https://atuals.com/blog/make-viral-carousels-with-claude-code" target="_blank"><b>How I Use Claude Code to Make Viral Carousels</b></a> · <sub>26 Jun 2026</sub><br/>
   <sub><a href="https://atuals.com/blog" target="_blank">all posts →</a></sub>
 </p>
 
@@ -175,7 +175,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Sunday 26 July at 14:16 WEST
+  Last refresh: Sunday 26 July at 20:06 WEST
 </p>
 
 <p align="center">
