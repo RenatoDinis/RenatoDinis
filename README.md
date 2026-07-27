@@ -134,9 +134,9 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/nkwSA6i19Pc" target="_blank"><img src="https://i.ytimg.com/vi/nkwSA6i19Pc/hqdefault.jpg" alt="How to Make Videos Without a Camera" width="100%" /></a>
+      <a href="https://youtu.be/nkwSA6i19Pc" target="_blank"><img src="https://i.ytimg.com/vi/nkwSA6i19Pc/hqdefault.jpg" alt="How to Make AI Videos With Claude Code" width="100%" /></a>
       <br/>
-      <sub><b>How to Make Videos Without a Camera</b></sub>
+      <sub><b>How to Make AI Videos With Claude Code</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/GOhl0GRQfnU" target="_blank"><img src="https://i.ytimg.com/vi/GOhl0GRQfnU/hqdefault.jpg" alt="How to Give Your AI a Memory (Second Brain Setup)" width="100%" /></a>
@@ -175,7 +175,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Monday 27 July at 15:28 WEST
+  Last refresh: Monday 27 July at 20:23 WEST
 </p>
 
 <p align="center">
