@@ -134,9 +134,9 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/nkwSA6i19Pc" target="_blank"><img src="https://i.ytimg.com/vi/nkwSA6i19Pc/hqdefault.jpg" alt="How to Clone Yourself With AI" width="100%" /></a>
+      <a href="https://youtu.be/nkwSA6i19Pc" target="_blank"><img src="https://i.ytimg.com/vi/nkwSA6i19Pc/hqdefault.jpg" alt="How to Make Videos Without a Camera" width="100%" /></a>
       <br/>
-      <sub><b>How to Clone Yourself With AI</b></sub>
+      <sub><b>How to Make Videos Without a Camera</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/GOhl0GRQfnU" target="_blank"><img src="https://i.ytimg.com/vi/GOhl0GRQfnU/hqdefault.jpg" alt="How to Give Your AI a Memory (Second Brain Setup)" width="100%" /></a>
@@ -175,7 +175,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Sunday 26 July at 20:06 WEST
+  Last refresh: Monday 27 July at 03:43 WEST
 </p>
 
 <p align="center">
