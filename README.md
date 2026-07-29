@@ -134,9 +134,9 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/w_gp6fkWv2Y" target="_blank"><img src="https://i.ytimg.com/vi/w_gp6fkWv2Y/hqdefault.jpg" alt="Anthropic&#39;s Cheaper Model Just Beat Its Flagship" width="100%" /></a>
+      <a href="https://youtu.be/w_gp6fkWv2Y" target="_blank"><img src="https://i.ytimg.com/vi/w_gp6fkWv2Y/hqdefault.jpg" alt="I Tested Opus 5 vs Fable 5 (Same Prompt, Half the Price)" width="100%" /></a>
       <br/>
-      <sub><b>Anthropic&#39;s Cheaper Model Just Beat Its Flagship</b></sub>
+      <sub><b>I Tested Opus 5 vs Fable 5 (Same Prompt, Half the Price)</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/nkwSA6i19Pc" target="_blank"><img src="https://i.ytimg.com/vi/nkwSA6i19Pc/hqdefault.jpg" alt="How to Make AI Videos With Claude Code" width="100%" /></a>
@@ -175,7 +175,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Tuesday 28 July at 20:19 WEST
+  Last refresh: Wednesday 29 July at 03:26 WEST
 </p>
 
 <p align="center">
