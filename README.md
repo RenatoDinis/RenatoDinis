@@ -134,14 +134,14 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/w_gp6fkWv2Y" target="_blank"><img src="https://i.ytimg.com/vi/w_gp6fkWv2Y/hqdefault.jpg" alt="Claude Opus 5: Half the Price of Fable 5, Sometimes Better" width="100%" /></a>
+      <a href="https://youtu.be/w_gp6fkWv2Y" target="_blank"><img src="https://i.ytimg.com/vi/w_gp6fkWv2Y/hqdefault.jpg" alt="Anthropic&#39;s Cheaper Model Just Beat Its Flagship" width="100%" /></a>
       <br/>
-      <sub><b>Claude Opus 5: Half the Price of Fable 5, Sometimes Better</b></sub>
+      <sub><b>Anthropic&#39;s Cheaper Model Just Beat Its Flagship</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/nkwSA6i19Pc" target="_blank"><img src="https://i.ytimg.com/vi/nkwSA6i19Pc/hqdefault.jpg" alt="How to Make AI Videos With Claude Code" width="100%" /></a>
+      <a href="https://youtu.be/nkwSA6i19Pc" target="_blank"><img src="https://i.ytimg.com/vi/nkwSA6i19Pc/hqdefault.jpg" alt="How to Make Videos Without a Camera" width="100%" /></a>
       <br/>
-      <sub><b>How to Make AI Videos With Claude Code</b></sub>
+      <sub><b>How to Make Videos Without a Camera</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/GOhl0GRQfnU" target="_blank"><img src="https://i.ytimg.com/vi/GOhl0GRQfnU/hqdefault.jpg" alt="How to Give Your AI a Memory (Second Brain Setup)" width="100%" /></a>
@@ -175,7 +175,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Friday 31 July at 15:00 WEST
+  Last refresh: Friday 31 July at 20:20 WEST
 </p>
 
 <p align="center">
