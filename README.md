@@ -136,9 +136,14 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/w_gp6fkWv2Y" target="_blank"><img src="https://i.ytimg.com/vi/w_gp6fkWv2Y/hqdefault.jpg" alt="Anthropic&#39;s Cheaper Model Just Beat Its Flagship" width="100%" /></a>
+      <a href="https://youtu.be/_oiQwX4wwck" target="_blank"><img src="https://i.ytimg.com/vi/_oiQwX4wwck/hqdefault.jpg" alt="Anthropic&#39;s New Design Tool Is Wild" width="100%" /></a>
       <br/>
-      <sub><b>Anthropic&#39;s Cheaper Model Just Beat Its Flagship</b></sub>
+      <sub><b>Anthropic&#39;s New Design Tool Is Wild</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://youtu.be/w_gp6fkWv2Y" target="_blank"><img src="https://i.ytimg.com/vi/w_gp6fkWv2Y/hqdefault.jpg" alt="Claude Opus 5: Half the Price of Fable 5, Sometimes Better" width="100%" /></a>
+      <br/>
+      <sub><b>Claude Opus 5: Half the Price of Fable 5, Sometimes Better</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/nkwSA6i19Pc" target="_blank"><img src="https://i.ytimg.com/vi/nkwSA6i19Pc/hqdefault.jpg" alt="How to Make AI Videos With Claude Code" width="100%" /></a>
@@ -149,11 +154,6 @@
       <a href="https://youtu.be/GOhl0GRQfnU" target="_blank"><img src="https://i.ytimg.com/vi/GOhl0GRQfnU/hqdefault.jpg" alt="How to Give Your AI a Memory (Second Brain Setup)" width="100%" /></a>
       <br/>
       <sub><b>How to Give Your AI a Memory (Second Brain Setup)</b></sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://youtu.be/wGODMF-opL0" target="_blank"><img src="https://i.ytimg.com/vi/wGODMF-opL0/hqdefault.jpg" alt="Why Use Many Token When Few Token Do Trick" width="100%" /></a>
-      <br/>
-      <sub><b>Why Use Many Token When Few Token Do Trick</b></sub>
     </td>
   </tr>
 </table>
@@ -177,7 +177,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Wednesday 5 August at 15:03 WEST
+  Last refresh: Wednesday 5 August at 20:25 WEST
 </p>
 
 <p align="center">
