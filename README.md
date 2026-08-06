@@ -136,9 +136,9 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/_oiQwX4wwck" target="_blank"><img src="https://i.ytimg.com/vi/_oiQwX4wwck/hqdefault.jpg" alt="Anthropic&#39;s New Design Tool Is Wild" width="100%" /></a>
+      <a href="https://youtu.be/_oiQwX4wwck" target="_blank"><img src="https://i.ytimg.com/vi/_oiQwX4wwck/hqdefault.jpg" alt="Claude Design Built This Page in 4 Minutes" width="100%" /></a>
       <br/>
-      <sub><b>Anthropic&#39;s New Design Tool Is Wild</b></sub>
+      <sub><b>Claude Design Built This Page in 4 Minutes</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/w_gp6fkWv2Y" target="_blank"><img src="https://i.ytimg.com/vi/w_gp6fkWv2Y/hqdefault.jpg" alt="Claude Opus 5: Half the Price of Fable 5, Sometimes Better" width="100%" /></a>
@@ -177,7 +177,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Thursday 6 August at 09:31 WEST
+  Last refresh: Thursday 6 August at 15:02 WEST
 </p>
 
 <p align="center">
