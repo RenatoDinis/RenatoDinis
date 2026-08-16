@@ -136,9 +136,14 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/_oiQwX4wwck" target="_blank"><img src="https://i.ytimg.com/vi/_oiQwX4wwck/hqdefault.jpg" alt="You&#39;re Missing the Best Part of Claude Design" width="100%" /></a>
+      <a href="https://youtu.be/wsy5p0UK3j4" target="_blank"><img src="https://i.ytimg.com/vi/wsy5p0UK3j4/hqdefault.jpg" alt="How To Clone Your Voice Offline" width="100%" /></a>
       <br/>
-      <sub><b>You&#39;re Missing the Best Part of Claude Design</b></sub>
+      <sub><b>How To Clone Your Voice Offline</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://youtu.be/_oiQwX4wwck" target="_blank"><img src="https://i.ytimg.com/vi/_oiQwX4wwck/hqdefault.jpg" alt="Anthropic&#39;s New Design Tool Is Wild" width="100%" /></a>
+      <br/>
+      <sub><b>Anthropic&#39;s New Design Tool Is Wild</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/w_gp6fkWv2Y" target="_blank"><img src="https://i.ytimg.com/vi/w_gp6fkWv2Y/hqdefault.jpg" alt="Claude Opus 5: Half the Price of Fable 5, Sometimes Better" width="100%" /></a>
@@ -149,11 +154,6 @@
       <a href="https://youtu.be/nkwSA6i19Pc" target="_blank"><img src="https://i.ytimg.com/vi/nkwSA6i19Pc/hqdefault.jpg" alt="How to Make AI Videos With Claude Code" width="100%" /></a>
       <br/>
       <sub><b>How to Make AI Videos With Claude Code</b></sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://youtu.be/GOhl0GRQfnU" target="_blank"><img src="https://i.ytimg.com/vi/GOhl0GRQfnU/hqdefault.jpg" alt="How to Give Your AI a Memory (Second Brain Setup)" width="100%" /></a>
-      <br/>
-      <sub><b>How to Give Your AI a Memory (Second Brain Setup)</b></sub>
     </td>
   </tr>
 </table>
@@ -177,7 +177,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Saturday 15 August at 19:24 WEST
+  Last refresh: Sunday 16 August at 02:09 WEST
 </p>
 
 <p align="center">
