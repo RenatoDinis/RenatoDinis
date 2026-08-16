@@ -136,14 +136,14 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/wsy5p0UK3j4" target="_blank"><img src="https://i.ytimg.com/vi/wsy5p0UK3j4/hqdefault.jpg" alt="How To Clone Your Voice Offline" width="100%" /></a>
+      <a href="https://youtu.be/wsy5p0UK3j4" target="_blank"><img src="https://i.ytimg.com/vi/wsy5p0UK3j4/hqdefault.jpg" alt="How To Clone Your Voice In 6 Minutes" width="100%" /></a>
       <br/>
-      <sub><b>How To Clone Your Voice Offline</b></sub>
+      <sub><b>How To Clone Your Voice In 6 Minutes</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/_oiQwX4wwck" target="_blank"><img src="https://i.ytimg.com/vi/_oiQwX4wwck/hqdefault.jpg" alt="Anthropic&#39;s New Design Tool Is Wild" width="100%" /></a>
+      <a href="https://youtu.be/_oiQwX4wwck" target="_blank"><img src="https://i.ytimg.com/vi/_oiQwX4wwck/hqdefault.jpg" alt="Claude Design Built This Page in 4 Minutes" width="100%" /></a>
       <br/>
-      <sub><b>Anthropic&#39;s New Design Tool Is Wild</b></sub>
+      <sub><b>Claude Design Built This Page in 4 Minutes</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/w_gp6fkWv2Y" target="_blank"><img src="https://i.ytimg.com/vi/w_gp6fkWv2Y/hqdefault.jpg" alt="Claude Opus 5: Half the Price of Fable 5, Sometimes Better" width="100%" /></a>
@@ -177,7 +177,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Sunday 16 August at 02:09 WEST
+  Last refresh: Sunday 16 August at 07:35 WEST
 </p>
 
 <p align="center">
