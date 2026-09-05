@@ -136,9 +136,9 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://youtu.be/352ezzTMaQE" target="_blank"><img src="https://i.ytimg.com/vi/352ezzTMaQE/hqdefault.jpg" alt="How To Replace ElevenLabs For Free (Voicebox)" width="100%" /></a>
+      <a href="https://youtu.be/352ezzTMaQE" target="_blank"><img src="https://i.ytimg.com/vi/352ezzTMaQE/hqdefault.jpg" alt="How To Clone Your Voice Free With Voicebox" width="100%" /></a>
       <br/>
-      <sub><b>How To Replace ElevenLabs For Free (Voicebox)</b></sub>
+      <sub><b>How To Clone Your Voice Free With Voicebox</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/wsy5p0UK3j4" target="_blank"><img src="https://i.ytimg.com/vi/wsy5p0UK3j4/hqdefault.jpg" alt="How To Clone Your Voice Free On A Mac" width="100%" /></a>
@@ -177,7 +177,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Saturday 5 September at 10:57 WEST
+  Last refresh: Saturday 5 September at 15:35 WEST
 </p>
 
 <p align="center">
