@@ -141,9 +141,9 @@
       <sub><b>How To Replace ElevenLabs For Free (Voicebox)</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://youtu.be/wsy5p0UK3j4" target="_blank"><img src="https://i.ytimg.com/vi/wsy5p0UK3j4/hqdefault.jpg" alt="How To Clone Your Voice Free On A Mac" width="100%" /></a>
+      <a href="https://youtu.be/wsy5p0UK3j4" target="_blank"><img src="https://i.ytimg.com/vi/wsy5p0UK3j4/hqdefault.jpg" alt="How To Clone Your Voice In 6 Minutes" width="100%" /></a>
       <br/>
-      <sub><b>How To Clone Your Voice Free On A Mac</b></sub>
+      <sub><b>How To Clone Your Voice In 6 Minutes</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://youtu.be/_oiQwX4wwck" target="_blank"><img src="https://i.ytimg.com/vi/_oiQwX4wwck/hqdefault.jpg" alt="Anthropic&#39;s New Design Tool Is Wild" width="100%" /></a>
@@ -177,7 +177,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Friday 4 September at 21:16 WEST
+  Last refresh: Saturday 5 September at 03:58 WEST
 </p>
 
 <p align="center">
