@@ -160,9 +160,9 @@
 
 <h3 align="center">✍️ Latest from the Atuals blog</h3>
 <p align="center">
+  <a href="https://atuals.com/blog/five-claude-code-prompts-agency-site" target="_blank"><b>Five Claude Code Prompts That Build an Agency Site, And the Line That Keeps It Honest</b></a> · <sub>7 Sept 2026</sub><br/>
   <a href="https://atuals.com/blog/how-to-clone-yourself-with-ai" target="_blank"><b>How to Clone Yourself With AI</b></a> · <sub>26 Jul 2026</sub><br/>
   <a href="https://atuals.com/blog/how-to-give-your-ai-a-memory" target="_blank"><b>How to Give Your AI a Memory (Second Brain Setup)</b></a> · <sub>14 Jul 2026</sub><br/>
-  <a href="https://atuals.com/blog/i-tested-caveman" target="_blank"><b>I Tested Caveman Mode: 65% Fewer Claude Tokens? Here&#39;s My Real Number</b></a> · <sub>5 Jul 2026</sub><br/>
   <sub><a href="https://atuals.com/blog" target="_blank">all posts →</a></sub>
 </p>
 
@@ -177,7 +177,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Monday 7 September at 03:55 WEST
+  Last refresh: Monday 7 September at 12:35 WEST
 </p>
 
 <p align="center">
