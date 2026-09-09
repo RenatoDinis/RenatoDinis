@@ -133,11 +133,30 @@
 </table>
 
 <h3 align="center">📺 Latest from YouTube</h3>
-<p align="center">
-  <a href="https://www.youtube.com/@RenatoDinisAI?sub_confirmation=1" target="_blank">
-    <img alt="Watch on YouTube" src="https://img.shields.io/badge/▶_Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://youtu.be/352ezzTMaQE" target="_blank"><img src="https://i.ytimg.com/vi/352ezzTMaQE/hqdefault.jpg" alt="How To Replace ElevenLabs For Free (Voicebox)" width="100%" /></a>
+      <br/>
+      <sub><b>How To Replace ElevenLabs For Free (Voicebox)</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://youtu.be/wsy5p0UK3j4" target="_blank"><img src="https://i.ytimg.com/vi/wsy5p0UK3j4/hqdefault.jpg" alt="How To Clone Your Voice Free On A Mac" width="100%" /></a>
+      <br/>
+      <sub><b>How To Clone Your Voice Free On A Mac</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://youtu.be/_oiQwX4wwck" target="_blank"><img src="https://i.ytimg.com/vi/_oiQwX4wwck/hqdefault.jpg" alt="Anthropic&#39;s New Design Tool Is Wild" width="100%" /></a>
+      <br/>
+      <sub><b>Anthropic&#39;s New Design Tool Is Wild</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://youtu.be/w_gp6fkWv2Y" target="_blank"><img src="https://i.ytimg.com/vi/w_gp6fkWv2Y/hqdefault.jpg" alt="Claude Opus 5: Half the Price of Fable 5, Sometimes Better" width="100%" /></a>
+      <br/>
+      <sub><b>Claude Opus 5: Half the Price of Fable 5, Sometimes Better</b></sub>
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">✍️ Latest from the Atuals blog</h3>
 <p align="center">
@@ -158,7 +177,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Tuesday 8 September at 21:43 WEST
+  Last refresh: Wednesday 9 September at 04:06 WEST
 </p>
 
 <p align="center">
