@@ -16,6 +16,9 @@
 </p>
 
 <p align="center">
+  <a href="https://t.me/+dCcvd1fhh-VmN2Nk" target="_blank">
+    <img alt="Telegram channel" src="https://img.shields.io/badge/Telegram_channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
   <a href="https://atuals.com/community" target="_blank">
     <img alt="Build With AI Club" src="https://img.shields.io/badge/Build_With_AI_Club-C15F3C?style=for-the-badge" />
   </a>
@@ -167,6 +170,9 @@
 </p>
 
 <p align="center">
+  📲 Free kits and every new video first?
+  <a href="https://t.me/+dCcvd1fhh-VmN2Nk"><b>Join my Telegram channel</b></a>
+  &nbsp;·&nbsp;
   🤝 Want to go from zero to your first paid build with AI?
   <a href="https://atuals.com/community"><b>Try the Build With AI Club free for 7 days</b></a>
   &nbsp;·&nbsp;
