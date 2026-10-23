@@ -183,7 +183,7 @@
 ------------
 <p align="center">
   This <i>README</i> auto-updates <b>every 6 hours</b>. <br/>
-  Last refresh: Friday 23 October at 12:00 WEST
+  Last refresh: Friday 23 October at 17:27 WEST
 </p>
 
 <p align="center">
